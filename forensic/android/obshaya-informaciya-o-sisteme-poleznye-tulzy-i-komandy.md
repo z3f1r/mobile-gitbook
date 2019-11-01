@@ -8,6 +8,14 @@
 
 `pidcat` - tool для логирования по pid
 
+Прописать путь до своих библиотек в системную переменную:  
+`export LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib`  
+`export PATH=$PATH:~/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/applets`  
+Для git'а:  
+git прописывает email/password в директорию HOME, а в Android она / =&gt; read-only  
+Чтобы не было проблем HOME-директорию можно переопределить на :  
+`export HOME=/data/data/com.termux/files/home`
+
 Некоторые скрипты, которые облегчают действия на телефоне  
 [https://github.com/zhenleiji/AndroidScripts](https://github.com/zhenleiji/AndroidScripts)
 
