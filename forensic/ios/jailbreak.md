@@ -6,5 +6,7 @@
 Тулзы для jb:  
 Cydia Impactor - для установки IPA-образов
 
+Удаление Electra и Cydia: [https://github.com/KirovAir/delectra](https://github.com/KirovAir/delectra)
+
 
 
