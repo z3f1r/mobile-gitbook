@@ -34,8 +34,12 @@
 
 ## Reverse Engineering
 
+* [iOS](reverse-engineering/ios/README.md)
+  * [iOS Audio Framework](reverse-engineering/ios/ios-audio-framework.md)
+  * [Swift](reverse-engineering/ios/swift.md)
 * [Tools](reverse-engineering/tools/README.md)
   * [emulators](reverse-engineering/tools/emulators.md)
+  * [xcrun](reverse-engineering/tools/xcrun.md)
   * [adb/fastboot](reverse-engineering/tools/adb-fastboot.md)
   * [DexCalibur](reverse-engineering/tools/dexcalibur.md)
   * [dex2jar](reverse-engineering/tools/dex2jar.md)
@@ -46,4 +50,5 @@
   * [Патчинг](reverse-engineering/keisy/patching.md)
   * [SSL Unpinning](reverse-engineering/keisy/ssl-unpinning.md)
   * [Объединить несколько JAR](reverse-engineering/keisy/obedinit-neskolko-jar.md)
+* [Статьи](reverse-engineering/stati.md)
 
