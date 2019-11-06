@@ -29,3 +29,6 @@
 
 ## Reverse Engineering
 
+* [Tools](reverse-engineering/tools/README.md)
+  * [dex2jar](reverse-engineering/tools/dex2jar.md)
+
