@@ -96,3 +96,6 @@ cmd package list &lt;features \| packages \| libraries \| instrumentation \| per
 
 ![](../../.gitbook/assets/urok_1_vvedenie_v_bezopasnost_mobilnykh.pdf_-_google_chrome_2018-10-29_01.11.15.png)
 
+Чтения сертификатов .RSA на aндроиде  
+`keytool -printcert -file ANDROID_.RSA`
+
