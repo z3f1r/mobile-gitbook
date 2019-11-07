@@ -11,11 +11,60 @@ Cordova: [http://ivancevich.me/articles/ignoring-invalid-ssl-certificates-on-cor
 
 ### Как на новых android \(попробовать\)
 
-рут, кастомный рекавери, packet capture. ставишь сертификаты, ребут в рекавери, ручками сертификаты из пользоваткльских в системные перекладывашь. ребут в систему и збс
+В Android, начиная с 7 версии, сертификаты пользователя не подходят для перехвата трафика. Надо их добавлять в хранилище доверенных сертификатов \(как и в Apple, только делается это нетривиально слегка\): [https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 
-как вариант ещё сверху плагин для маджиска - trust user cert или как-то так
+При добавлении сертификата первым способом, может возникнуть проблема, что файловая система находится в режиме read-only. В этом случае:  
+mount -o rw,remount /system  
+добавляем сертификат  
+mount -o ro,remount /system
 
-### На примере Uber
+### Создание сертов, совместимых с системными сертами Android
+
+```text
+Имя серта:
+openssl x509 -in <some.cer> -subject_hash_old
+
+Составные части:
+Серт:
+openssl x509 -in <some.cer>
+
+Серт в текстовом виде:
+openssl x509 -in <some.cer> -noout -text
+
+Fingerprint:
+openssl x509 -in <some.cer> -noout -fingerprint -sha1
+
+Или все разом:
+openssl x509 -in FiddlerRoot.cer -inform DER -text -subject_hash_old -sha1 -fingerprint
+Главное, потом расположиить в правильном порядке
+```
+
+Системные серты здесь: `/system/etc/security/cacerts`
+
+Пользовательские сертификаты хранятся здесь: `/data/misc/user/0/cacerts-added` На более старых устройствах их можно найти здесь: `/data/misc/keychain/cacerts-added`
+
+1. Экспортируем сертификат \(CER\|DER\)
+2. openssl x509 -inform DER -in cacert.der -out cacert.pem
+3. openssl x509 -inform PEM -subject\_hash\_old -in cacert.pem \|head -1
+4. mv cacert.pem .0
+5. mv /sdcard/.0 /system/etc/security/cacerts/  
+
+   chmod 644 /system/etc/security/cacerts/.0
+
+6. \*chgrp - на root если вдруг пользователь не root стоит
+7. adb reboot
+
+   В trusted creds появляется наш сертификат
+
+### Перехват через цепочку: android -&gt; mitmproxy -&gt; burp
+
+Запускаем burp: `localhost:<port_burp>`  
+Запускаем mitmproxy: `mitmproxy -p <port_mitmproxy> --mode upstream:localhost:<port_burp> --ssl-insecure`  
+На телефоне: `set proxy with <port_mitmproxy>`
+
+Из-за чего такие финтеля: не получается поставить серта бурпа на телефоне в системные. Серт mitmproxy становится норм!
+
+### Патчинг на примере Uber
 
 1 Инструменты: JDK, Android SDK \(Tool: zipalign\)  
 Добавить их в PATH:  
@@ -43,4 +92,8 @@ keytool -import -v -trustcacerts -alias mybks -file FiddlerRoot.cer -keystore ss
 Подписываем только что сгенерированным ключом наш APK: jarsigner -sigalg MD5withRSA -digestalg SHA1 -keystore mykeys.keystore -storepass spassword -keypass kpassword1 Uber.apk mykey1
 
 Теперь осталось выровнять данные в архиве по четырехбайтной границе: zipalign -f 4 Uber.apk Uber.apk\_zipal.apk
+
+### Установка сертификатов в iPhone
+
+Для того, чтобы норм перехватывать трафик, необходимо не только в профиль ставить сертификат, но и в доверенные его переводить!
 

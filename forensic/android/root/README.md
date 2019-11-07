@@ -5,7 +5,7 @@
 Входишь под учеткой login/password: **4150931399**   
 номер +7916..23
 
-```
+```text
 Загрузиться в recovery (в т.ч. и TWRP):
 ~# adb reboot recovery
 

@@ -8,11 +8,11 @@ bfinject - дамп ios приложения \(работает только с 
 
 Пример подписи
 
-```
+```text
  $> /electra/usr/local/bin/jtool.liberios --ent /var/containers/Bundle/Application/D6A07246-234D-40E2-94FC-0BBCEAB16D1C/Snapchat.app/Snapchat
 ```
 
-```
+```text
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

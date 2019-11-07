@@ -14,7 +14,7 @@
 
 ### ADB Man
 
-```
+```text
 ADB man
 am - Activity Manager
 

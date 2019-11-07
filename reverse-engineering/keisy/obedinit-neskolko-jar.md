@@ -1,6 +1,6 @@
 # Объединить несколько JAR
 
-```
+```text
 jar -xvf jar1.jar tmp
 jar -xvf jar2.jar tmp
 
