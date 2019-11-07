@@ -9,6 +9,7 @@
 * [Android](programming/android/README.md)
   * [Frameworks](programming/android/frameworks/README.md)
     * [Retrofit2](programming/android/frameworks/retrofit2.md)
+    * [Google Play Authorization](programming/android/frameworks/google-play-authorization.md)
   * [API levels & NDK Version](programming/android/api-levels-and-ndk-version.md)
 
 ## Forensic
