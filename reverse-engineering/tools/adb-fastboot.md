@@ -54,6 +54,10 @@ adb shell am dumpheap [options] process file
 
 adb shell am to-uri intent
 adb shell am to-intent-uri intent
+
+
+pm - Package Manager
+adb shell pm dump <package> - тайминги работы приложения, что запускало и тп
 ```
 
 ![](../../.gitbook/assets/izobrazhenie%20%282%29.png)
