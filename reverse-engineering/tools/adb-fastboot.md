@@ -58,3 +58,8 @@ adb shell am to-intent-uri intent
 
 ![](../../.gitbook/assets/izobrazhenie%20%282%29.png)
 
+### Trubleshooting
+
+Ошибка `adb: failed to install <some>.apk Failure [INSTALL_FAILED_VERSION_DOWNGRADE]`   
+Решение: удалить `/data/app/some`
+
