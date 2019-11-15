@@ -16,11 +16,11 @@ apktool b my -o my\_pathed.apk
 
 4 Подписываем apk  
 Удаляем из apk папку META-INF со старой подписью приложения \(если есть\) и приступаем к генерации новой.  
-Создаем хранилище ключей и генерируем в нем ключ для подписи apk: keytool -genkey -keystore mykeys.keystore -storepass spassword -alias mykey1 -keypass kpassword1 -dname "CN=ololo O=HackAndroid C=RU" -validity 10000 -sigalg MD5withRSA -keyalg RSA -keysize 1024
+Создаем хранилище ключей и генерируем в нем ключ для подписи apk: `keytool -genkey -keystore mykeys.keystore -storepass spassword -alias mykey1 -keypass kpassword1 -dname "CN=ololo O=HackAndroid C=RU" -validity 10000 -sigalg SHA256withRSA -keyalg RSA -keysize 2048`
 
-Подписываем только что сгенерированным ключом наш APK: jarsigner -sigalg MD5withRSA -digestalg SHA1 -keystore mykeys.keystore -storepass spassword -keypass kpassword1 my\_pathed.apk mykey1
+Подписываем только что сгенерированным ключом наш APK: `jarsigner -sigalg SHA256withRSA -digestalg SHA1 -keystore mykeys.keystore -storepass spassword -keypass kpassword1 my_pathed.apk mykey1`
 
-Теперь осталось выровнять данные в архиве по четырехбайтной границе: zipalign -f 4 my\_pathed.apk my\_pathed\_zipal.apk
+Теперь осталось выровнять данные в архиве по четырехбайтной границе: `zipalign -f 4 my_pathed.apk my_pathed_zipal.apk`
 
 Другой вариант подписи:  
 Сначала zipalign, затем apksigner \(из android sdk \(build-tools/\[version\]/apksigner.bat sign --ks keystore my.apk\)\)
