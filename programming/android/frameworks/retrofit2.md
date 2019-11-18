@@ -23,3 +23,5 @@ OkHTTP Client SSL Pinning ex:
 
 1. Class\_\*TypeAdapter.java \(Например, Class\_JsonTypeAdapter\) Содержит в себе методы read/write, которые переводят объект Class в контейнер \(н-р, Json\) и обратно.
 
+Пример использования с courootines: [https://www.c-sharpcorner.com/article/how-to-use-retrofit-2-with-android-using-kotlin/](https://www.c-sharpcorner.com/article/how-to-use-retrofit-2-with-android-using-kotlin/)
+
