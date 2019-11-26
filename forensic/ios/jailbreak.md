@@ -10,3 +10,7 @@ Cydia Impactor - для установки IPA-образов
 
 Еще есть такой jail: checkra1n \(work on macos \(пока\)\): ios 12.3 - 13.2
 
+Еще способ установки IPA: установка через сайты \(открываем в Safari\):  
+[https://www.diawi.com/](https://www.diawi.com/)  
+ignition.fun
+
