@@ -8,5 +8,5 @@ Cydia Impactor - для установки IPA-образов
 
 Удаление Electra и Cydia: [https://github.com/KirovAir/delectra](https://github.com/KirovAir/delectra)
 
-
+Еще есть такой jail: checkra1n: ios 12.3 - 13.2
 
