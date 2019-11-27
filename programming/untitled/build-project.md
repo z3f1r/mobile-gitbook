@@ -34,3 +34,10 @@ Xcode
 
 Объединяет в себе несколько проектов.
 
+## Build
+
+pod install   
+xcode open xcworkspace
+
+Версия swift прописана в Podfile. В Xcode ее меняем здесь: **Xcode**-&gt;Preferences-&gt;Components-&gt; Toolchains section and Select the **Swift**.
+
