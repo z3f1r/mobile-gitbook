@@ -58,6 +58,9 @@ adb shell am to-intent-uri intent
 
 pm - Package Manager
 adb shell pm dump <package> - тайминги работы приложения, что запускало и тп
+
+Удалить пользователя (читай: приложение)
+adb shell pm remove-user USER_ID
 ```
 
 ![](../../.gitbook/assets/izobrazhenie%20%282%29.png)
