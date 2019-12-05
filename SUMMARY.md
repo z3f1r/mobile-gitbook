@@ -22,6 +22,7 @@
   * [Файловая система](forensic/ios/failovaya-sistema.md)
   * [Create/Decrypt Backup](forensic/ios/create-decrypt-backup.md)
   * [IPA dump](forensic/ios/ipa-dump/README.md)
+    * [Frida IPA dump](forensic/ios/ipa-dump/frida-ipa-dump.md)
     * [iOS 11 и выше](forensic/ios/ipa-dump/ios-11-i-vyshe.md)
     * [Младше iOS 10](forensic/ios/ipa-dump/mladshe-ios-10.md)
   * [Jailbreak](forensic/ios/jailbreak.md)
