@@ -41,3 +41,10 @@ xcode open xcworkspace
 
 Версия swift прописана в Podfile. В Xcode ее меняем здесь: **Build Settings**
 
+## Build IPA on XCode
+
+XCode&gt;Product&gt;Archive - создание архива  
+Window-&gt;Organize-&gt;Archive - билд IPA образа. Как: [https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681](https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681)
+
+
+
