@@ -17,7 +17,8 @@
 
 * [Bluetooth](forensic/bluetooth.md)
 * [iOS](forensic/ios/README.md)
-  * [Инструменты и скрипты](forensic/ios/instrumenty-i-skripty.md)
+  * [Инструменты и скрипты](forensic/ios/instrumenty-i-skripty/README.md)
+    * [Cydia Impactor](forensic/ios/instrumenty-i-skripty/cydia-impactor.md)
   * [Архитектура ОС](forensic/ios/arkhitektura-os.md)
   * [Файловая система](forensic/ios/failovaya-sistema.md)
   * [Create/Decrypt Backup](forensic/ios/create-decrypt-backup.md)
