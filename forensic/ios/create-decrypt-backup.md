@@ -6,3 +6,7 @@
 
 Смотреть Python Scripts
 
+Где расположен iTunes backup: смотрим в iTunes/Preferences/Devices/&lt;пр кн мыши -&gt; location&gt;
+
+
+
