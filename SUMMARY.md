@@ -18,6 +18,7 @@
 * [Bluetooth](forensic/bluetooth.md)
 * [iOS](forensic/ios/README.md)
   * [Инструменты и скрипты](forensic/ios/instrumenty-i-skripty/README.md)
+    * [libimobiledevice](forensic/ios/instrumenty-i-skripty/libimobiledevice.md)
     * [Cydia Impactor](forensic/ios/instrumenty-i-skripty/cydia-impactor.md)
   * [Архитектура ОС](forensic/ios/arkhitektura-os.md)
   * [Файловая система](forensic/ios/failovaya-sistema.md)
