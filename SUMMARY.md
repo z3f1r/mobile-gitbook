@@ -51,6 +51,7 @@
   * [adb/fastboot](reverse-engineering/tools/adb-fastboot.md)
   * [DexCalibur](reverse-engineering/tools/dexcalibur.md)
   * [dex2jar](reverse-engineering/tools/dex2jar.md)
+  * [objection](reverse-engineering/tools/objection.md)
 * [Кейсы](reverse-engineering/keisy/README.md)
   * [Debug WebView Hybrid App](reverse-engineering/keisy/debug-webview-hybrid-app.md)
   * [Unity](reverse-engineering/keisy/unity.md)
