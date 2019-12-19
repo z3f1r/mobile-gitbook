@@ -39,7 +39,10 @@
 
 * [Настройка окружения](pentest/nastroika-okruzheniya/README.md)
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
-* [Инструменты и скрипты](pentest/instrumenty-i-skripty.md)
+* [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
+  * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
+    * [passionfruit](pentest/instrumenty-i-skripty/ios/passionfruit.md)
+    * [ipanema](pentest/instrumenty-i-skripty/ios/ipanema.md)
 
 ## Reverse Engineering
 
