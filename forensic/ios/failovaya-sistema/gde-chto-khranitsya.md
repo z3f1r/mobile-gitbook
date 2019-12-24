@@ -1,8 +1,4 @@
----
-description: 'Здесь будут заметки по местонахождению в фс файлов сервисов, приложений и тп'
----
-
-# Файловая система
+# Где что хранится
 
 Keychain DB: `/private/var/Keychains/` _, а копия здесь: `/Library/Keychains/`_  
 CallHistoryDB: `/private/var/mobile/Library/CallHistoryDB/CallHistory.storedata`
@@ -24,6 +20,4 @@ __Создается следующей функцией: [https://developer.app
 Пример, как с этим всем работают: [https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/InitializingtheCoreDataStack.html](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/InitializingtheCoreDataStack.html)
 
 Фото и тп: /private/var/mobile/Media - но там все на базы закручено, просто так не докинешь
-
-
 
