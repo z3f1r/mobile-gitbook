@@ -14,7 +14,9 @@ site: [http://www.libimobiledevice.org/](http://www.libimobiledevice.org/)
 
 `brew install libimobiledevice`
 
-## ideviceimagemounter
+## Usage
+
+### ideviceimagemounter
 
 example usage:  
 1 mount Developer Disk Image  
@@ -27,7 +29,7 @@ example usage:
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/  
 - [https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image.git](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image.git)
 
-## iproxy
+### iproxy
 
 Проброс портов over SSH USB
 
