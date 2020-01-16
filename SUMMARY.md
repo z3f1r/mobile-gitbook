@@ -5,6 +5,8 @@
 ## Programming
 
 * [iOS](programming/untitled/README.md)
+  * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
+    * [Jailbreak Detection](programming/untitled/frameworks-and-libraries/jailbreak-detection.md)
   * [Build Project](programming/untitled/build-project.md)
 * [Android](programming/android/README.md)
   * [Frameworks](programming/android/frameworks/README.md)
