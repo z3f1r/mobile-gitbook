@@ -21,6 +21,7 @@
     * [Retrofit2](programming/android/frameworks/retrofit2.md)
     * [Google Play Authorization](programming/android/frameworks/google-play-authorization.md)
   * [API levels & NDK Version](programming/android/api-levels-and-ndk-version.md)
+* [Дистрибьюция](programming/distribyuciya.md)
 
 ## Forensic
 
