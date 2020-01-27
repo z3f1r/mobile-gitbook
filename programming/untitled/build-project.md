@@ -36,7 +36,8 @@ Xcode
 
 ## Build
 
-pod install   
+xcodegen - генерация XCode проекта из сорцов и Pod файла  
+pod install - подтягивание зависимостей    
 xcode open xcworkspace
 
 Версия swift прописана в Podfile. В Xcode ее меняем здесь: **Build Settings**
