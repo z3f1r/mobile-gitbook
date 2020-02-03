@@ -55,6 +55,8 @@
 
 ## Pentest
 
+* [Кейсы](pentest/keisy/README.md)
+  * [Firebase](pentest/keisy/firebase.md)
 * [Настройка окружения](pentest/nastroika-okruzheniya/README.md)
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
