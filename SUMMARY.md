@@ -87,3 +87,20 @@
   * [Объединить несколько JAR](reverse-engineering/keisy/obedinit-neskolko-jar.md)
 * [Статьи](reverse-engineering/stati.md)
 
+## Administration
+
+* [Инструменты](administration/instrumenty/README.md)
+  * [Android](administration/instrumenty/android/README.md)
+    * [uiautomatorviewer](administration/instrumenty/android/uiautomatorviewer.md)
+    * [jobb](administration/instrumenty/android/jobb.md)
+    * [archquery](administration/instrumenty/android/archquery.md)
+    * [apkanalyzer](administration/instrumenty/android/apkanalyzer.md)
+    * [perfetto](administration/instrumenty/android/perfetto.md)
+    * [monkeyrunner](administration/instrumenty/android/monkeyrunner.md)
+    * [sdkmanager](administration/instrumenty/android/sdkmanager.md)
+* [Emulators](administration/emulators/README.md)
+  * [Android](administration/emulators/android/README.md)
+    * [Инструменты](administration/emulators/android/instrumenty/README.md)
+      * [avdmanager](administration/emulators/android/instrumenty/avdmanager.md)
+      * [emulator](administration/emulators/android/instrumenty/emulator.md)
+
