@@ -4,6 +4,8 @@ description: Создание и изменение виртуальных де�
 
 # avdmanager
 
+Находится по пути $ANDROID\_SDK/tools/bin
+
 ```text
 Фулл док: https://developer.android.com/studio/command-line/avdmanager
 
