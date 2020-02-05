@@ -51,8 +51,9 @@ openssl x509 -in FiddlerRoot.cer -inform DER -text -subject_hash_old -sha1 -fing
 
    chmod 644 /system/etc/security/cacerts/.0
 
-6. \*chgrp - на root если вдруг пользователь не root стоит
-7. adb reboot
+6. \*chgrp - на root если вдруг группа не root стоит: chgrp root &lt;file&gt;
+7. \*chown root &lt;file&gt; - если вдруг пользователь-владелец не root
+8. adb reboot
 
    В trusted creds появляется наш сертификат
 
