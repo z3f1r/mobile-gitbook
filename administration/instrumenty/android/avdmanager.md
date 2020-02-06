@@ -41,3 +41,12 @@ list [target|device|avd] [-c]
 -c - для компактного вывода (не работает, если выводить все три категории)
 ```
 
+Для того, чтобы можно было найти в системе конфиг нашего эмулятора \(файл .avd\), надо в ANDROID\_SDK\_HOME/avd или в ANDROID\_AVD\_HOME или в HOME/.android/avd определить .ini файл подобного вида \(заменив пути так, как надо нам\):
+
+```text
+avd.ini.encoding=UTF-8
+path=/Users/o.petrakov/.android/avd/Sbol_SberKids_-_API_28_Nexus_5_.avd
+path.rel=avd/Sbol_SberKids_-_API_28_Nexus_5_.avd
+target=android-28
+```
+
