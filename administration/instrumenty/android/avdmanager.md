@@ -27,6 +27,8 @@ create avd -n name -k "sdk_id" [-c {path|size}] [-f] [-p path]
     -p path: Path to the location where the directory for this AVD's files will be created. If you do not specify a path, the AVD will be created in ~/.android/avd/.
 
 ex: avdmanager create avd -n test -k "system-images;android-25;google_apis;x86"
+Из опыта: не использовать другие ключи: там какие-то проблемы с путями будут
+По дефолту, создаться образ в ~/.android/avd/<name>.avd/*
 
 2. Delete AVD
 delete avd -n name
@@ -41,12 +43,5 @@ list [target|device|avd] [-c]
 -c - для компактного вывода (не работает, если выводить все три категории)
 ```
 
-Для того, чтобы можно было найти в системе конфиг нашего эмулятора \(файл .avd\), надо в ANDROID\_SDK\_HOME/avd или в ANDROID\_AVD\_HOME или в HOME/.android/avd определить .ini файл подобного вида \(заменив пути так, как надо нам\):
 
-```text
-avd.ini.encoding=UTF-8
-path=/Users/o.petrakov/.android/avd/Sbol_SberKids_-_API_28_Nexus_5_.avd
-path.rel=avd/Sbol_SberKids_-_API_28_Nexus_5_.avd
-target=android-28
-```
 
