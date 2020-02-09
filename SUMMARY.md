@@ -13,6 +13,7 @@
   * [Google Analytics](programming/analitika/google-analytics.md)
 * [iOS](programming/untitled/README.md)
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
+    * [VPN Detection](programming/untitled/frameworks-and-libraries/vpn-detection.md)
     * [Jailbreak Detection](programming/untitled/frameworks-and-libraries/jailbreak-detection.md)
   * [Build Project](programming/untitled/build-project.md)
 * [Android](programming/android/README.md)
