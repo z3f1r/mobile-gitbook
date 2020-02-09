@@ -18,6 +18,7 @@
 * [Android](programming/android/README.md)
   * [ЯП](programming/android/yap.md)
   * [Технологии](programming/android/tekhnologii/README.md)
+    * [Gradle](programming/android/tekhnologii/gradle.md)
     * [Remote Method Invocation](programming/android/tekhnologii/remote-method-invocation.md)
   * [Примеры](programming/android/primery/README.md)
     * [Kotlin](programming/android/primery/kotlin.md)
