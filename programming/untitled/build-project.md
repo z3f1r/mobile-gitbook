@@ -1,8 +1,10 @@
-# Build Project
+# Xcode: Build Project
 
 ## IDE
 
-Xcode
+Xcode - главная среда для разработки под iOS, MacOS ..  
+При открытии проекта надо открывать `xcworkspace`, а не `xcproject`!!!  
+Старые версии xcode: [https://developer.apple.com/download/more/](https://developer.apple.com/download/more/)
 
 ## Структура проекта
 
