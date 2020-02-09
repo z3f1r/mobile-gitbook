@@ -27,8 +27,6 @@ create avd -n name -k "sdk_id" [-c {path|size}] [-f] [-p path]
     -p path: Path to the location where the directory for this AVD's files will be created. If you do not specify a path, the AVD will be created in ~/.android/avd/.
 
 ex: avdmanager create avd -n test -k "system-images;android-25;google_apis;x86"
-Из опыта: не использовать другие ключи: там какие-то проблемы с путями будут
-По дефолту, создаться образ в ~/.android/avd/<name>.avd/*
 
 2. Delete AVD
 delete avd -n name
@@ -42,6 +40,4 @@ move avd -n name [-p path] [-r new-name]
 list [target|device|avd] [-c]
 -c - для компактного вывода (не работает, если выводить все три категории)
 ```
-
-
 

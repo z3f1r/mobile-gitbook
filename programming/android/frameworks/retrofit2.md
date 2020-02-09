@@ -2,11 +2,7 @@
 description: Retrofit2 - Фреймворк позволяющий строить API (мб они генеряться?)
 ---
 
-# Retrofit2 / OkHTTP
-
-### Документация
-
-[https://square.github.io/retrofit/\#api-declaration](https://square.github.io/retrofit/#api-declaration)
+# Retrofit2
 
 ### SSL Pinning
 
