@@ -13,6 +13,7 @@
     * [NDK](programming/android/frameworks/ndk/README.md)
       * [Install and Build](programming/android/frameworks/ndk/install-and-build.md)
       * [OpenSSL](programming/android/frameworks/ndk/openssl.md)
+      * [libgit2 build](programming/android/frameworks/ndk/libgit2-build.md)
     * [Ktor](programming/android/frameworks/ktor.md)
     * [Video/Audio](programming/android/frameworks/video-audio/README.md)
       * [Communications](programming/android/frameworks/video-audio/communications/README.md)
