@@ -4,6 +4,12 @@
 
 ## Programming
 
+* [Аналитика](programming/analitika/README.md)
+  * [Fabric](programming/analitika/fabric.md)
+  * [Facebook](programming/analitika/facebook.md)
+  * [Yandex](programming/analitika/yandex.md)
+  * [Firebase](programming/analitika/firebase.md)
+  * [Crashlytics](programming/analitika/crashlytics.md)
 * [iOS](programming/untitled/README.md)
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
     * [Jailbreak Detection](programming/untitled/frameworks-and-libraries/jailbreak-detection.md)
@@ -32,6 +38,7 @@
       * [Duktape](programming/android/frameworks/js-engines/duktape.md)
     * [DI: Dependency Injection](programming/android/frameworks/di-dependency-injection.md)
     * [Retrofit2](programming/android/frameworks/retrofit2.md)
+    * [Dagger2](programming/android/frameworks/dagger2.md)
     * [Google Play Authorization](programming/android/frameworks/google-play-authorization.md)
   * [API levels & NDK Version](programming/android/api-levels-and-ndk-version.md)
 * [Дистрибьюция](programming/distribyuciya.md)
