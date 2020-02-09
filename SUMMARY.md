@@ -24,6 +24,7 @@
     * [Kotlin](programming/android/primery/kotlin.md)
   * [Архитектура Kotlin-приложения](programming/android/arkhitektura-kotlin-prilozheniya.md)
   * [Frameworks](programming/android/frameworks/README.md)
+    * [Room](programming/android/frameworks/room.md)
     * [Data binding](programming/android/frameworks/data-binding.md)
     * [AndroidX](programming/android/frameworks/androidx.md)
     * [NDK](programming/android/frameworks/ndk/README.md)
