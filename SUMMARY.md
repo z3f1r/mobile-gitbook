@@ -11,6 +11,7 @@
   * [Firebase](programming/analitika/firebase.md)
   * [Crashlytics](programming/analitika/crashlytics.md)
   * [Google Analytics](programming/analitika/google-analytics.md)
+  * [HockeyApp](programming/analitika/hockeyapp.md)
 * [iOS](programming/untitled/README.md)
   * [Архитектура](programming/untitled/arkhitektura.md)
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
