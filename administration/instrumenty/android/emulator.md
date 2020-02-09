@@ -12,6 +12,10 @@ emulator -avd avd_name [ {-option [value]} … ]
 
 default: emulator -avd avd_name -netdelay none -netspeed full
 
+Help по всем командам: 
+emulator -help
+emulator -help-<command>
+
 Список AVD:
 emulator -list-avds
 
