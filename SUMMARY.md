@@ -42,7 +42,7 @@
     * [AndroidX](programming/android/frameworks/androidx-1.md)
     * [LiveData](programming/android/frameworks/livedata.md)
     * [Lifecycle](programming/android/frameworks/lifecycle.md)
-    * [index](programming/android/frameworks/room.md)
+    * [Room](programming/android/frameworks/room.md)
     * [Data binding](programming/android/frameworks/data-binding.md)
       * [Basic](programming/android/frameworks/data-binding/basic.md)
     * [AndroidX](programming/android/frameworks/androidx.md)

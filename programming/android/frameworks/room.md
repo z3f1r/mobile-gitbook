@@ -1,4 +1,4 @@
-# index
+# Room
 
 Room - обертка над SQLIte/Realm/DAO, представленная на Goolge I/O. Room provides an abstraction layer over SQLite in a similar way to Retrofit with network requests. Пример использования: androidx.room. [https://habr.com/ru/post/336196/](https://habr.com/ru/post/336196/) [https://developer.android.com/training/data-storage/room/accessing-data](https://developer.android.com/training/data-storage/room/accessing-data)
 
