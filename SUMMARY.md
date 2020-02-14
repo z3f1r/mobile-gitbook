@@ -39,6 +39,8 @@
     * [Архитектура Kotlin-приложения](programming/android/arkhitektura-android-prilozheniya/arkhitektura-kotlin-prilozheniya.md)
   * [Frameworks](programming/android/frameworks/README.md)
     * [AndroidX](programming/android/frameworks/androidx-1.md)
+    * [LiveData](programming/android/frameworks/livedata.md)
+    * [Lifecycle](programming/android/frameworks/lifecycle.md)
     * [Room](programming/android/frameworks/room.md)
     * [Data binding](programming/android/frameworks/data-binding.md)
       * [Basic](programming/android/frameworks/data-binding/basic.md)
