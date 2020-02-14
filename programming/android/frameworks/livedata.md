@@ -1,5 +1,7 @@
 ---
-description: LiveData is an observable data holder class that is lifecycle-aware
+description: >-
+  LiveData is an observable data holder class that is lifecycle-aware.
+  Используется для обновления данных в UI автоматически.
 ---
 
 # LiveData
@@ -58,5 +60,16 @@ private fun nextWord() {
 }
 ```
 
+### LiveData transformations
 
+ При передаче из обного объекта в другой появляется необходимость в приминении преобразований. Для этого можно использовать Transformations
+
+Пример
+
+```kotlin
+// The String version of the current time
+val currentTimeString = Transformations.map(currentTime) { time ->
+   DateUtils.formatElapsedTime(time)
+}
+```
 
