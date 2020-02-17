@@ -107,6 +107,7 @@
 
 * [Уязвимости и Атаки](pentest/uyazvimosti-i-ataki/README.md)
   * [Intro](pentest/uyazvimosti-i-ataki/intro.md)
+  * [WebView](pentest/uyazvimosti-i-ataki/webview.md)
   * [Android](pentest/uyazvimosti-i-ataki/android.md)
 * [Кейсы](pentest/keisy/README.md)
   * [Flutter SDK: Capture Traffic](pentest/keisy/flutter-sdk-capture-traffic.md)
