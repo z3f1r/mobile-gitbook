@@ -40,6 +40,7 @@
       * [Activities](programming/android/arkhitektura-android-prilozheniya/basic/activities.md)
       * [Broadcast Receivers](programming/android/arkhitektura-android-prilozheniya/basic/broadcast-receivers.md)
       * [Content Providers](programming/android/arkhitektura-android-prilozheniya/basic/content-providers.md)
+      * [Custom URL Schemes](programming/android/arkhitektura-android-prilozheniya/basic/custom-url-schemes.md)
       * [File permissions](programming/android/arkhitektura-android-prilozheniya/basic/file-permissions.md)
       * [Intents](programming/android/arkhitektura-android-prilozheniya/basic/intents.md)
       * [PendingIntents](programming/android/arkhitektura-android-prilozheniya/basic/pendingintents.md)
