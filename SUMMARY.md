@@ -124,6 +124,7 @@
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
   * [Android](pentest/instrumenty-i-skripty/android.md)
   * [hybrid app](pentest/instrumenty-i-skripty/hybrid-app/README.md)
+    * [Cordova](pentest/instrumenty-i-skripty/hybrid-app/cordova.md)
     * [Electron](pentest/instrumenty-i-skripty/hybrid-app/electron.md)
   * [Parsing APK: Извлечение информации](pentest/instrumenty-i-skripty/parsing-apk-izvlechenie-informacii.md)
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
