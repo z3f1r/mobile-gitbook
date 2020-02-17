@@ -63,7 +63,7 @@ adb shell pm dump <package> - тайминги работы приложения
 adb shell pm remove-user USER_ID
 ```
 
-![](../../.gitbook/assets/izobrazhenie%20%283%29.png)
+![](../../.gitbook/assets/izobrazhenie%20%285%29.png)
 
 ### Trubleshooting
 
