@@ -123,6 +123,7 @@
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
   * [Android](pentest/instrumenty-i-skripty/android.md)
+  * [Parsing APK: Извлечение информации](pentest/instrumenty-i-skripty/parsing-apk-izvlechenie-informacii.md)
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
     * [meetle](pentest/instrumenty-i-skripty/ios/meetle.md)
