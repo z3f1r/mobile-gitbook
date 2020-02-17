@@ -150,7 +150,8 @@
   * [Unity](reverse-engineering/keisy/unity.md)
   * [Поиск уникальных строк в Smali](reverse-engineering/keisy/poisk-unikalnykh-strok-v-smali.md)
   * [Патчинг](reverse-engineering/keisy/patching.md)
-  * [SSL Unpinning](reverse-engineering/keisy/ssl-unpinning.md)
+  * [iOS: SSL Unpinning](reverse-engineering/keisy/ios-ssl-unpinning.md)
+  * [Android: SSL Unpinning](reverse-engineering/keisy/ssl-unpinning.md)
   * [Объединить несколько JAR](reverse-engineering/keisy/obedinit-neskolko-jar.md)
 * [Статьи](reverse-engineering/stati.md)
 
