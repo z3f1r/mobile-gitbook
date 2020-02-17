@@ -121,6 +121,7 @@
   * [Android](pentest/instrumenty-i-skripty/android.md)
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
+    * [ios emulator](pentest/instrumenty-i-skripty/ios/ios-emulator.md)
     * [passionfruit](pentest/instrumenty-i-skripty/ios/passionfruit.md)
     * [ipanema](pentest/instrumenty-i-skripty/ios/ipanema.md)
 
