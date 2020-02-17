@@ -123,6 +123,8 @@
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
   * [Android](pentest/instrumenty-i-skripty/android.md)
+  * [hybrid app](pentest/instrumenty-i-skripty/hybrid-app/README.md)
+    * [Electron](pentest/instrumenty-i-skripty/hybrid-app/electron.md)
   * [Parsing APK: Извлечение информации](pentest/instrumenty-i-skripty/parsing-apk-izvlechenie-informacii.md)
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
