@@ -122,6 +122,7 @@
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
     * [meetle](pentest/instrumenty-i-skripty/ios/meetle.md)
+    * [plist reader](pentest/instrumenty-i-skripty/ios/plist-reader.md)
     * [App Transport Security](pentest/instrumenty-i-skripty/ios/app-transport-security.md)
     * [needle](pentest/instrumenty-i-skripty/ios/needle.md)
     * [Info.plist](pentest/instrumenty-i-skripty/ios/info.plist.md)
