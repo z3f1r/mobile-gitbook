@@ -122,6 +122,7 @@
   * [Firebase](pentest/keisy/firebase.md)
 * [Настройка окружения](pentest/nastroika-okruzheniya/README.md)
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
+* [Books & Papers](pentest/books-and-papers.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
   * [Android](pentest/instrumenty-i-skripty/android.md)
   * [hybrid app](pentest/instrumenty-i-skripty/hybrid-app/README.md)
