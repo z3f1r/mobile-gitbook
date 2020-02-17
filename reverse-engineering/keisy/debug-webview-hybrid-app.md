@@ -6,6 +6,7 @@ Cordova
 Angular   
 Xamarin   
 ReactJS  
+Hermes \(от facebook\)  
 Unity  
 Exponent JS: [https://expo.io/](https://expo.io/)
 
