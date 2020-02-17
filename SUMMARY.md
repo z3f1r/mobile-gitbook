@@ -36,6 +36,7 @@
     * [Kotlin](programming/android/primery/kotlin.md)
   * [Архитектура Android приложения](programming/android/arkhitektura-android-prilozheniya/README.md)
     * [Basic](programming/android/arkhitektura-android-prilozheniya/basic/README.md)
+      * [Broadcast Receivers](programming/android/arkhitektura-android-prilozheniya/basic/broadcast-receivers.md)
       * [Services](programming/android/arkhitektura-android-prilozheniya/basic/services.md)
     * [Архитектура Kotlin-приложения](programming/android/arkhitektura-android-prilozheniya/arkhitektura-kotlin-prilozheniya.md)
   * [Frameworks](programming/android/frameworks/README.md)
