@@ -135,6 +135,7 @@
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
     * [meetle](pentest/instrumenty-i-skripty/ios/meetle.md)
     * [App Transport Security](pentest/instrumenty-i-skripty/ios/app-transport-security.md)
+    * [iFunBox](pentest/instrumenty-i-skripty/ios/ifunbox.md)
     * [needle](pentest/instrumenty-i-skripty/ios/needle.md)
     * [Info.plist](pentest/instrumenty-i-skripty/ios/info.plist.md)
     * [ios emulator](pentest/instrumenty-i-skripty/ios/ios-emulator.md)
