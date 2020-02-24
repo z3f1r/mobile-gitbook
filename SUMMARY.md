@@ -125,6 +125,7 @@
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
 * [Books & Papers](pentest/books-and-papers.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
+  * [Комбайны](pentest/instrumenty-i-skripty/kombainy.md)
   * [Android](pentest/instrumenty-i-skripty/android.md)
   * [hybrid app](pentest/instrumenty-i-skripty/hybrid-app/README.md)
     * [Cordova](pentest/instrumenty-i-skripty/hybrid-app/cordova.md)
