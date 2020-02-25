@@ -9,7 +9,7 @@ Hermes - JS Engine. Перегоняет jS в байткод и от этого
 Отличие от React Native в том, что index.android.bundle будет сериализован \(бинарщина\)
 
 ```text
-$ apk hermes -b --dump-bytecode index.android.bundle
+$ hermes -b --dump-bytecode index.android.bundle
 Error deserializing bytecode: Wrong bytecode version. Expected 74 but got 62%
 $ hermes -version
 74
