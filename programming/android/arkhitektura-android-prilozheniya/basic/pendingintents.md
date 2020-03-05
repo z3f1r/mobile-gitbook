@@ -2,10 +2,20 @@
 
 ### Intro
 
+[https://startandroid.ru/ru/uroki/vse-uroki-spiskom/160-urok-95-service-obratnaja-svjaz-s-pomoschju-pendingintent.html](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/160-urok-95-service-obratnaja-svjaz-s-pomoschju-pendingintent.html)
+
 Инструмент для взаимодействия между компонентами приложений.
 
 Позволяет передать Intent другому приложению, которое сможет его выполнить, как будто его выполняет первое приложение \(т.е. с теми же permissions\). Это позволяет другим приложения возвращать информацию private компонентам родительского приложения.  
 Внешнее приложение, если оно вредоносное, может попытаться повлиять на родительское приложение и/или данные/целостность
+
+### Пример общего подхода
+
+```kotlin
+val intent = Intent(context, LocalService::class.java) // создаем интент для работы с локальным объектом
+val pendingIntent = PendingIntent.getService(context, SOME_CODE, intent, SOME_FLAG) // помещаем локальный интент в pendingintent
+val intent = Intent(context, )
+```
 
 ### Как хорошо делать
 
