@@ -16,6 +16,9 @@ val intent = Intent(context, LocalService::class.java) // создаем инт�
 val pendingIntent = PendingIntent.getService(context, SOME_CODE, intent, SOME_FLAG) // помещаем локальный интент в pendingintent
 val intent = Intent("com.other.app.action")
 intent.putExtra("TestPI", pendingIntent)
+
+На стороне принимающей стороны:
+val intent = intent?.getParcelableExtra<PendingIntent>("TestPI")
 ```
 
 ### 
