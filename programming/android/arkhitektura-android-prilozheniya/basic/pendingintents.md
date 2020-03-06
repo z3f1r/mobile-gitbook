@@ -21,8 +21,6 @@ intent.putExtra("TestPI", pendingIntent)
 val intent = intent?.getParcelableExtra<PendingIntent>("TestPI")
 ```
 
-### 
-
 ### Как хорошо делать
 
 Использовать PendingIntent как отложенные функции возврата для private BroadcastReceivers или broadcast activities, и указывать полное имя компонента в базовом Intent
