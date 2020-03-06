@@ -34,6 +34,7 @@
     * [Bundle](programming/android/yap/bundle.md)
     * [Kotlin](programming/android/yap/kotlin.md)
   * [Технологии](programming/android/tekhnologii/README.md)
+    * [Fastlane](programming/android/tekhnologii/fastlane.md)
     * [Gradle](programming/android/tekhnologii/gradle.md)
     * [Remote Method Invocation](programming/android/tekhnologii/remote-method-invocation.md)
   * [Примеры](programming/android/primery/README.md)
