@@ -76,6 +76,7 @@
     * [Retrofit / OkHTTP](programming/android/frameworks/retrofit-okhttp/README.md)
       * [Intro](programming/android/frameworks/retrofit-okhttp/retrofit2.md)
       * [Example Usage](programming/android/frameworks/retrofit-okhttp/example-usage/README.md)
+        * [Структура модуля](programming/android/frameworks/retrofit-okhttp/example-usage/struktura-modulya.md)
         * [HttpApi](programming/android/frameworks/retrofit-okhttp/example-usage/httpapi.md)
         * [ControllerApi](programming/android/frameworks/retrofit-okhttp/example-usage/controllerapi.md)
       * [SSLPinning](programming/android/frameworks/retrofit-okhttp/sslpinning.md)
