@@ -21,6 +21,28 @@ intent.putExtra("TestPI", pendingIntent)
 val intent = intent?.getParcelableExtra<PendingIntent>("TestPI")
 ```
 
+### Пример: из MainActivity отправляем интент в сервис и получаем ответ через PendingIntent обратно
+
+```kotlin
+В MainActivity:
+val intent = Intent(this, MainActivity::class.java)
+val pendingIntent = PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT)
+val intent_service = Intent(this, NetworkService::class.java).apply { формирую интент }
+startService(intent_service)
+
+Сервис запускается, обрабатывает что мне нужно. Настает время вернуть результат:
+В NetworkService:
+val output: String = «blabla»
+pendingIntent.send(applicationContext, 0, Intent().putExtra(MainActivity.PARAM_RESULT, output))
+
+И поток управления возвращается в MainActivity, в метод onCreate, а не в onActivityResult(requestCode: Int, resultCode: Int, data: Intent?), и, соответственно, активити перезагружается
+
+Как мне вернуть результат в onActivityResult ?
+
+UPD: с флагом intent.setFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP) активити не перезагружается, но результат в onActivityResult все равно не возвращается
+UPD2: В MainActivity переопределяем onNewIntent -> сюда придет ответ PendingIntent с сервиса
+```
+
 ### Как хорошо делать
 
 Использовать PendingIntent как отложенные функции возврата для private BroadcastReceivers или broadcast activities, и указывать полное имя компонента в базовом Intent
