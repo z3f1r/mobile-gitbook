@@ -59,5 +59,9 @@ client.hostnameVerifier(HostnameVerifier {_, _ -> true})
 
 #### Пример TrustManager с доверием только сертификату нашего сервера
 
+Общий пример здесь: [https://square.github.io/okhttp/https/](https://square.github.io/okhttp/https/)
 
+```text
+
+```
 
