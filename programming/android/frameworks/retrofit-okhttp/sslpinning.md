@@ -1,10 +1,14 @@
 # SSLPinning
 
+### Ссылки
+
 SSLPinning \(делается через OkHTTP: сначала проверяем серт через okhttp, потом делаем запрос через ретрофит\)  
 [https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd)
 
 OkHTTP Client SSL Pinning ex:  
 [https://www.codota.com/code/java/methods/okhttp3.OkHttpClient$Builder/sslSocketFactory](https://www.codota.com/code/java/methods/okhttp3.OkHttpClient$Builder/sslSocketFactory)
+
+### SSL Pinning: CA - доверенный
 
 С добавлением SSL Pinning'а есть нюансы. Если сертификат сервера подписан у доверенного CA, то пиннинг в приложении делается очень просто:
 
@@ -18,11 +22,15 @@ httpClient.certificatePinner(
 ...
 ```
 
-Однако, в случае самоподписанного сертификата сервера, TLS соединение не будет установлено: будет ошибка "trust anchor for certification path not found"
+### SSL Pinning: CA - self-signed
+
+Однако, в случае самоподписанного сертификата сервера, TLS соединение не будет установлено: будет ошибка `"trust anchor for certification path not found"`
 
 В этом случае надо добавлять свой TrustManager и настраивать sslSocketFactory с сертом сервера.
 
-Пример Trust Manager с полным доверием всем сертам \(в этом случае sslpinning как в примере выше не сработает \(ведь мы всем сертам доверяем\)\)
+#### Пример TrustManager с полным доверием всем сертам 
+
+\(в этом случае sslpinning как в примере выше не сработает \(ведь мы всем сертам доверяем\)\)
 
 ```kotlin
 val trustAllCerts = arrayOf<TrustManager>(object : X509TrustManager {
@@ -48,4 +56,8 @@ val sslSocketFactory = sslContext.socketFactory
 client.sslSocketFactory(sslSocketFactory, trustAllCerts[0] as X509TrustManager)
 client.hostnameVerifier(HostnameVerifier {_, _ -> true})
 ```
+
+#### Пример TrustManager с доверием только сертификату нашего сервера
+
+
 
