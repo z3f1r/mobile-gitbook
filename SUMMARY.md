@@ -6,6 +6,7 @@
 ## Programming
 
 * [Аналитика](programming/analitika/README.md)
+  * [AppsFlyer](programming/analitika/appsflyer.md)
   * [Fabric](programming/analitika/fabric.md)
   * [Facebook](programming/analitika/facebook.md)
   * [Yandex](programming/analitika/yandex.md)
