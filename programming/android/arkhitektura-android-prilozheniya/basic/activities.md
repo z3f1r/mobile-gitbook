@@ -42,3 +42,11 @@ public static Intent getStartingIntent(Context context, String userId) {
 Intent(MainActivity.this, TargetActivity.class)
 ```
 
+### Список запущенных активити
+
+```text
+adb shell dumpsys activity activities
+```
+
+
+
