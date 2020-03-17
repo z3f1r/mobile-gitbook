@@ -23,6 +23,8 @@
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
     * [Core](programming/untitled/frameworks-and-libraries/core.md)
     * [СDP](programming/untitled/frameworks-and-libraries/sdp.md)
+    * [Store Data](programming/untitled/frameworks-and-libraries/store-data.md)
+    * [UI](programming/untitled/frameworks-and-libraries/ui.md)
     * [Network](programming/untitled/frameworks-and-libraries/network/README.md)
       * [AFNetworking](programming/untitled/frameworks-and-libraries/network/afnetworking.md)
       * [HTTP Requests](programming/untitled/frameworks-and-libraries/network/http-requests.md)
