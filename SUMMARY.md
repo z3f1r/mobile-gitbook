@@ -27,6 +27,7 @@
     * [UI](programming/untitled/frameworks-and-libraries/ui.md)
     * [Network](programming/untitled/frameworks-and-libraries/network/README.md)
       * [AFNetworking](programming/untitled/frameworks-and-libraries/network/afnetworking.md)
+      * [Alamofire](programming/untitled/frameworks-and-libraries/network/alamofire.md)
       * [HTTP Requests](programming/untitled/frameworks-and-libraries/network/http-requests.md)
     * [VPN Detection](programming/untitled/frameworks-and-libraries/vpn-detection.md)
     * [Jailbreak Detection](programming/untitled/frameworks-and-libraries/jailbreak-detection.md)
