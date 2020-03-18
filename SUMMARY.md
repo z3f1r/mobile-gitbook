@@ -47,6 +47,7 @@
     * [Fastlane](programming/android/tekhnologii/fastlane.md)
     * [Gradle](programming/android/tekhnologii/gradle.md)
     * [LeakCanary](programming/android/tekhnologii/leakcanary.md)
+    * [Mocking](programming/android/tekhnologii/mocking.md)
     * [Remote Method Invocation](programming/android/tekhnologii/remote-method-invocation.md)
   * [Примеры](programming/android/primery/README.md)
     * [Kotlin](programming/android/primery/kotlin.md)
