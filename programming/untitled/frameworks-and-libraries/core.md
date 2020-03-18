@@ -15,3 +15,5 @@ NSFetchRequest
 NSPredicate  
 [https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Predicates/Articles/pCreating.html](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Predicates/Articles/pCreating.html)
 
+CFNetwork - Core Foundation для сетевого взаимодействия
+
