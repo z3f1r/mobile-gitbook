@@ -18,3 +18,16 @@ Public компоненты, объявленные в манифесте, по 
 
 Не передавать ценную информацию через BroadcastIntent между приложениями. Использовать Explicit Intents
 
+Пример запуска интента другого приложения
+
+```kotlin
+val intent_remote = Intent("${TARGET}.action.AUTH_REGISTRATION").apply {
+    component = ComponentName(TARGET, "com.zfr.ctfzoneclient.service.view.AuthService")
+    putExtra("USER_NAME", "testuser")
+    putExtra("FIRST_NAME", "firstname_testuser")
+    putExtra("LAST_NAME", "lastname_testuser")
+    putExtra("PENDING_INTENT", pendingIntent)
+}
+
+```
+
