@@ -69,6 +69,8 @@
     * [LiveData](programming/android/frameworks/livedata.md)
     * [Lifecycle](programming/android/frameworks/lifecycle.md)
     * [Background Tasks](programming/android/frameworks/background-tasks/README.md)
+      * [DownloadManager](programming/android/frameworks/background-tasks/downloadmanager.md)
+      * [AlarmManager](programming/android/frameworks/background-tasks/alarmmanager.md)
       * [Foreground Services \(или просто Services\)](programming/android/frameworks/background-tasks/foreground-services-ili-prosto-services.md)
       * [WorkManager](programming/android/frameworks/background-tasks/workmanager.md)
     * [Room](programming/android/frameworks/room.md)
