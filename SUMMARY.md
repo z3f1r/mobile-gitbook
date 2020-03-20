@@ -68,6 +68,7 @@
     * [AndroidX](programming/android/frameworks/androidx-1.md)
     * [LiveData](programming/android/frameworks/livedata.md)
     * [Lifecycle](programming/android/frameworks/lifecycle.md)
+    * [WorkManager](programming/android/frameworks/workmanager.md)
     * [Room](programming/android/frameworks/room.md)
     * [Data binding](programming/android/frameworks/data-binding/README.md)
       * [Basic](programming/android/frameworks/data-binding/basic.md)
