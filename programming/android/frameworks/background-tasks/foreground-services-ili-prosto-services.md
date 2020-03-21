@@ -60,3 +60,7 @@ man \(RU\): [https://developer.android.com/guide/components/services](https://de
 
 Нам надо переопределить только этот метод для обработки входяих интентов. Все остальное за нас уже сделано. 
 
+### Проблема с тем, что система убивает сервис
+
+Это происходит из-за оптимизации работы батарии. Решения: запускать startForegroundService \(для sdk 26 и младше\) или отключать оптимизацию работы батареи для нашего приложения [https://stackoverflow.com/questions/48166206/how-to-start-power-manager-of-all-android-manufactures-to-enable-background-and](https://stackoverflow.com/questions/48166206/how-to-start-power-manager-of-all-android-manufactures-to-enable-background-and)
+
