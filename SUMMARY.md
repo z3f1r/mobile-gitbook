@@ -6,10 +6,12 @@
 ## Programming
 
 * [Аналитика](programming/analitika/README.md)
+  * [Twitter ads](programming/analitika/twitter-ads.md)
+  * [Paypal for Business](programming/analitika/paypal-for-business.md)
   * [Emarsys](programming/analitika/emarsys.md)
   * [AppsFlyer](programming/analitika/appsflyer.md)
   * [Fabric](programming/analitika/fabric.md)
-  * [Facebook](programming/analitika/facebook.md)
+  * [Facebook ads](programming/analitika/facebook.md)
   * [Yandex](programming/analitika/yandex.md)
   * [Firebase](programming/analitika/firebase.md)
   * [Crashlytics](programming/analitika/crashlytics.md)
