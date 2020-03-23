@@ -4,6 +4,10 @@ Room - обертка над SQLIte/Realm/DAO, представленная на
 
 Выглядит как достаточно безопасная штука, которая переводит объекты сразу в базу и обратно. Если делать все по инструкции, ошибиться невозможно \(про sqli\) Подробно: [https://medium.com/@appmattus/android-security-sql-injection-with-the-room-persistence-library-69f4e286960f](https://medium.com/@appmattus/android-security-sql-injection-with-the-room-persistence-library-69f4e286960f)
 
+Две норм статьи по разработке с помощью Room:  
+[https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)  
+[https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
+
 ## С точки зрения разработки
 
 Поэтапное создание [https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/\#4](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/#4)
