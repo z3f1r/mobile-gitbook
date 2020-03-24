@@ -67,7 +67,3 @@ Intent intent = new Intent("com.my.app.action")
 PendingIntent pi = PendingIntent.getService(getApplicationContext(), 0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
 ```
 
-Разобранные примеры уязвимостей \(прочесть!!\)
-
-{% file src="../../../../.gitbook/assets/esorics18.pdf" %}
-
