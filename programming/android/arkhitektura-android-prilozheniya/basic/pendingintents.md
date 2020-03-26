@@ -12,9 +12,9 @@
 ### Пример общего подхода
 
 ```kotlin
-val intent = Intent(context, LocalService::class.java) // создаем интент для работы с локальным объектом
+val intent = Intent(context, LocalService::class.java) // создаем интент для работы с локальным объектом - указываем, тем самым, кто будет обрабатывать ответ
 val pendingIntent = PendingIntent.getService(context, SOME_CODE, intent, SOME_FLAG) // помещаем локальный интент в pendingintent
-val intent = Intent("com.other.app.action")
+val intent = Intent("com.other.app.action") // Куда отправляем PendingIntent
 intent.putExtra("TestPI", pendingIntent)
 
 На стороне принимающей стороны:
