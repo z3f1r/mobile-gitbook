@@ -64,6 +64,7 @@
       * [File permissions](programming/android/arkhitektura-android-prilozheniya/basic/file-permissions.md)
       * [Intents](programming/android/arkhitektura-android-prilozheniya/basic/intents.md)
       * [PendingIntents](programming/android/arkhitektura-android-prilozheniya/basic/pendingintents.md)
+      * [WebView](programming/android/arkhitektura-android-prilozheniya/basic/webview.md)
       * [Services](programming/android/arkhitektura-android-prilozheniya/basic/services.md)
     * [Архитектура Kotlin-приложения](programming/android/arkhitektura-android-prilozheniya/arkhitektura-kotlin-prilozheniya.md)
   * [Frameworks](programming/android/frameworks/README.md)
