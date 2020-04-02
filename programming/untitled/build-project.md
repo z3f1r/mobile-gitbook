@@ -55,5 +55,7 @@ xcode open xcworkspace
 XCode&gt;Product&gt;Archive - создание архива  
 Window-&gt;Organize-&gt;Archive - билд IPA образа. Как: [https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681](https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681)
 
+Важно: проверять, что полученный IPA-образ устанавливается на телефон \(были примеры, когда этого не происходило\)
+
 
 
