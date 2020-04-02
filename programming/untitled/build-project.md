@@ -44,6 +44,12 @@ xcode open xcworkspace
 
 Версия swift прописана в Podfile. В Xcode ее меняем здесь: **Build Settings**
 
+## Настройка сборок/таргетов
+
+Для того чтобы определить, какую сборку запускать на запуск, билд и тд, заходим в таргеты -&gt; Edit Scheme и там настроиваем 
+
+![](../../.gitbook/assets/snimok-ekrana-2020-04-02-v-15.25.23.png)
+
 ## Build IPA on XCode
 
 XCode&gt;Product&gt;Archive - создание архива  
