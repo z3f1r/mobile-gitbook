@@ -44,6 +44,7 @@
     * [Bundle](programming/android/yap/bundle.md)
     * [Kotlin](programming/android/yap/kotlin-1/README.md)
       * [Статические поля класса](programming/android/yap/kotlin-1/staticheskie-polya-klassa.md)
+      * [Возвращение нескольких типов данных из функции](programming/android/yap/kotlin-1/vozvrashenie-neskolkikh-tipov-dannykh-iz-funkcii.md)
       * [Основы синтаксиса](programming/android/yap/kotlin-1/kotlin.md)
   * [Технологии](programming/android/tekhnologii/README.md)
     * [Fastlane](programming/android/tekhnologii/fastlane.md)
