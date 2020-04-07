@@ -12,6 +12,8 @@ LiveData is observablle
 LiveData сохраняет информацию. Является враппером для любого типа данных  
 LiveData is lifecycle-aware. То есть, когда добавляем observer, observer ассоциируется с LifecycleOwner. LiveData будет обновляться, если lifecycle будет переходить в состояния STARTED или RESUMED.
 
+**Важно**: LiveData будет возвращать значение только если зарегистрирован хотя бы один observer
+
 Пример
 
 ```kotlin
