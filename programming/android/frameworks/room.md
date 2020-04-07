@@ -108,6 +108,8 @@ public class Item {
 
 Внешний ключ \(`ForeignKeys`\) Внешние ключи позволяют связывать таблицы между собой. Если вы еще не знакомы с ними, то можете почитать о них в инете. В выше рассмотренных примерах у нас есть класс `Employee` для хранения данных по сотрудникам. Давайте создадим класс `Car` для хранения данных по машинам. И каждая машина должна быть прикреплена к какому-либо сотруднику.
 
+**Важно**: When we use foreign key dont forget to put `onDelete = ForeignKey.CASCADE` this way if you delete an data it will also delete de dependency. This way you won't have false data or data that are never use
+
 ```java
 @Entity(foreignKeys = @ForeignKey(entity = Employee.class, parentColumns = "id", childColumns = "employee_id"))
 public class Car {
