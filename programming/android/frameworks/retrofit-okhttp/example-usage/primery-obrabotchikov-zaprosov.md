@@ -21,5 +21,14 @@
  }
 ```
 
+Или через await
 
+```kotlin
+ val authApi = ControllerApi().getAuthApi()
+ authApi.register(user).await().let {
+     if (response.isSuccessful) {
+         ...
+     }
+ }
+```
 
