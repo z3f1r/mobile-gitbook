@@ -120,6 +120,7 @@
 * [NFC](forensic/nfc.md)
 * [iOS](forensic/ios/README.md)
   * [Инструменты и скрипты](forensic/ios/instrumenty-i-skripty/README.md)
+    * [Забор скриншотов с телефона](forensic/ios/instrumenty-i-skripty/zabor-skrinshotov-s-telefona.md)
     * [otool](forensic/ios/instrumenty-i-skripty/otool.md)
     * [plist reader](forensic/ios/instrumenty-i-skripty/plist-reader.md)
     * [backup reader](forensic/ios/instrumenty-i-skripty/backup-reader.md)
