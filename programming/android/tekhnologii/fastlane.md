@@ -4,3 +4,7 @@
 
 Сайт проекта: [https://docs.fastlane.tools](https://docs.fastlane.tools)
 
+install:   
+gem install fastlane -NV  
+brew cask install fastlane
+
