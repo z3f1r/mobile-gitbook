@@ -20,7 +20,7 @@
 
 ### Пример объявления активити
 
-![](../../../../.gitbook/assets/izobrazhenie%20%289%29.png)
+![](../../../../.gitbook/assets/izobrazhenie%20%2810%29.png)
 
 ### Пример запуска Activity
 

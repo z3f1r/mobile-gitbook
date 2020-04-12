@@ -56,6 +56,8 @@
     * [LeakCanary](programming/android/tekhnologii/leakcanary.md)
     * [Mocking](programming/android/tekhnologii/mocking.md)
     * [Remote Method Invocation](programming/android/tekhnologii/remote-method-invocation.md)
+  * [Android Studio](programming/android/android-studio/README.md)
+    * [Build Project](programming/android/android-studio/build-project.md)
   * [Примеры](programming/android/primery/README.md)
     * [Kotlin](programming/android/primery/kotlin.md)
   * [Архитектура Android приложения](programming/android/arkhitektura-android-prilozheniya/README.md)
