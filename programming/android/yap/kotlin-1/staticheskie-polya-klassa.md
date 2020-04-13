@@ -1,4 +1,4 @@
-# Статические поля класса
+# Статические поля/функции класса
 
 PARAM\_RESULT - статическое поле
 
@@ -6,6 +6,9 @@ PARAM\_RESULT - статическое поле
 class MainActivity : AppCompatActivity() {
     companion object {
         val PARAM_RESULT: String = "com.zfr.network.extra.RESULT"
+        fun test() {
+            
+        }
     }    
 }
 ```
