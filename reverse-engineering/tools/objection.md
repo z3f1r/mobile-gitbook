@@ -8,5 +8,5 @@
 
 {% embed url="https://github.com/sensepost/objection/blob/master/objection/console/helpfiles/ios.hooking.watch.method.txt" %}
 
-
+Патчинг Split APKs [https://nickbloor.co.uk/2020/03/29/patching-android-split-apks/](https://nickbloor.co.uk/2020/03/29/patching-android-split-apks/)
 
