@@ -28,3 +28,5 @@ javascr += “document.body.appendChild(newscript);”;
 myWebView.loadUrl(javascr);
 ```
 
+Что безопаснее WebView или Chrome Custom Tabs: [https://developer.chrome.com/multidevice/android/customtabs](https://developer.chrome.com/multidevice/android/customtabs)
+
