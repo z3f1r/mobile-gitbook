@@ -157,6 +157,7 @@
 * [Уязвимости и Атаки](pentest/uyazvimosti-i-ataki/README.md)
   * [Intro](pentest/uyazvimosti-i-ataki/intro.md)
   * [Attack Surface](pentest/uyazvimosti-i-ataki/attack-surface.md)
+  * [Java Object Deserialization](pentest/uyazvimosti-i-ataki/java-object-deserialization.md)
   * [WebView](pentest/uyazvimosti-i-ataki/webview.md)
   * [Android](pentest/uyazvimosti-i-ataki/android.md)
 * [Кейсы](pentest/keisy/README.md)
