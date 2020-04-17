@@ -23,3 +23,5 @@
 </paths>
 ```
 
+Херня с FileProvider нихера не работает: ограничение на exported + выдаваемые permissions работают, только пока живет контекст. Закрылся IntentService -&gt; отозвались permissions
+
