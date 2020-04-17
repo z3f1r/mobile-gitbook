@@ -15,5 +15,11 @@
 </provider>
 ```
 
-
+```markup
+@xml/backup_path
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="backup" path="backup/"/>
+</paths>
+```
 
