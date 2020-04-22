@@ -46,6 +46,7 @@
       * [Статические поля/функции класса](programming/android/yap/kotlin-1/staticheskie-polya-klassa.md)
       * [Возвращение нескольких типов данных из функции](programming/android/yap/kotlin-1/vozvrashenie-neskolkikh-tipov-dannykh-iz-funkcii.md)
       * [Получить Type или Class](programming/android/yap/kotlin-1/poluchit-type-ili-class.md)
+      * [Coroutines](programming/android/yap/kotlin-1/coroutines.md)
       * [Async/Await](programming/android/yap/kotlin-1/async-await.md)
       * [Работа с nullable](programming/android/yap/kotlin-1/rabota-s-nullable.md)
       * [Основы синтаксиса](programming/android/yap/kotlin-1/kotlin.md)
