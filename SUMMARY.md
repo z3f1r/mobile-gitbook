@@ -44,6 +44,7 @@
     * [Bundle](programming/android/yap/bundle.md)
     * [Kotlin](programming/android/yap/kotlin-1/README.md)
       * [Статические поля/функции класса](programming/android/yap/kotlin-1/staticheskie-polya-klassa.md)
+      * [Выполнение периодических событий](programming/android/yap/kotlin-1/vypolnenie-periodicheskikh-sobytii.md)
       * [Возвращение нескольких типов данных из функции](programming/android/yap/kotlin-1/vozvrashenie-neskolkikh-tipov-dannykh-iz-funkcii.md)
       * [Получить Type или Class](programming/android/yap/kotlin-1/poluchit-type-ili-class.md)
       * [Coroutines](programming/android/yap/kotlin-1/coroutines.md)
