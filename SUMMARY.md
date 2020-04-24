@@ -48,6 +48,7 @@
       * [Выполнение периодических событий](programming/android/yap/kotlin-1/vypolnenie-periodicheskikh-sobytii.md)
       * [Возвращение нескольких типов данных из функции](programming/android/yap/kotlin-1/vozvrashenie-neskolkikh-tipov-dannykh-iz-funkcii.md)
       * [Получить Type или Class](programming/android/yap/kotlin-1/poluchit-type-ili-class.md)
+      * [Возвращение объектов в Intent](programming/android/yap/kotlin-1/vozvrashenie-obektov-v-intent.md)
       * [Coroutines](programming/android/yap/kotlin-1/coroutines.md)
       * [Async/Await](programming/android/yap/kotlin-1/async-await.md)
       * [Работа с nullable](programming/android/yap/kotlin-1/rabota-s-nullable.md)
