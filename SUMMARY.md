@@ -61,6 +61,7 @@
       * [Flavors & BuildTypes](programming/android/tekhnologii/gradle-1/flavors-and-buildtypes.md)
     * [LeakCanary](programming/android/tekhnologii/leakcanary.md)
     * [Mocking](programming/android/tekhnologii/mocking.md)
+    * [Automating build](programming/android/tekhnologii/automating-build.md)
     * [Remote Method Invocation](programming/android/tekhnologii/remote-method-invocation.md)
   * [Android Studio](programming/android/android-studio/README.md)
     * [Build Project](programming/android/android-studio/build-project.md)
