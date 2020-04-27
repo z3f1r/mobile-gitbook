@@ -231,5 +231,6 @@
     * [emulator](administration/instrumenty/android/emulator.md)
     * [perfetto](administration/instrumenty/android/perfetto.md)
     * [monkeyrunner](administration/instrumenty/android/monkeyrunner.md)
+    * [Настройка окружения](administration/instrumenty/android/nastroika-okruzheniya.md)
     * [sdkmanager](administration/instrumenty/android/sdkmanager.md)
 
