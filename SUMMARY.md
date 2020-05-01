@@ -202,6 +202,7 @@
   * [Swift](reverse-engineering/ios/swift.md)
 * [Tools](reverse-engineering/tools/README.md)
   * [emulators](reverse-engineering/tools/emulators.md)
+  * [luject](reverse-engineering/tools/luject.md)
   * [xcrun](reverse-engineering/tools/xcrun.md)
   * [adb/fastboot](reverse-engineering/tools/adb-fastboot.md)
   * [DexCalibur](reverse-engineering/tools/dexcalibur.md)
