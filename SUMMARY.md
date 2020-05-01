@@ -207,6 +207,7 @@
   * [adb/fastboot](reverse-engineering/tools/adb-fastboot.md)
   * [DexCalibur](reverse-engineering/tools/dexcalibur.md)
   * [dex2jar](reverse-engineering/tools/dex2jar.md)
+  * [enjarify](reverse-engineering/tools/enjarify.md)
   * [frida](reverse-engineering/tools/frida.md)
   * [objection](reverse-engineering/tools/objection.md)
 * [Кейсы](reverse-engineering/keisy/README.md)
