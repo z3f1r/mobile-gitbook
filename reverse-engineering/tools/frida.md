@@ -14,6 +14,12 @@ iOS App Static Analys: [https://asciinema.org/a/302160](https://asciinema.org/a/
 
 universal script unpinning: [https://codeshare.frida.re/@pcipolloni/universal-android-ssl-pinning-bypass-with-frida/](https://codeshare.frida.re/@pcipolloni/universal-android-ssl-pinning-bypass-with-frida/)
 
+### Unity/Mono inj
+
+[https://www.hypn.za.net/blog/2020/04/19/hacking-unity-games-part-2-manipulating/](https://www.hypn.za.net/blog/2020/04/19/hacking-unity-games-part-2-manipulating/)
+
+
+
 
 
 
