@@ -168,7 +168,7 @@
   * [WebView](pentest/uyazvimosti-i-ataki/webview.md)
   * [Android](pentest/uyazvimosti-i-ataki/android.md)
 * [Кейсы](pentest/keisy/README.md)
-  * [Flutter SDK: Capture Traffic](pentest/keisy/flutter-sdk-capture-traffic.md)
+  * [Flutter SDK: RE/Capture Traffic](pentest/keisy/flutter-sdk-capture-traffic.md)
   * [Disable/Delete any app w/o root](pentest/keisy/disable-delete-any-app-w-o-root.md)
   * [Firebase](pentest/keisy/firebase.md)
 * [Bug Bounty](pentest/bug-bounty.md)
