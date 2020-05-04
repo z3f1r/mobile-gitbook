@@ -192,6 +192,7 @@
     * [Info.plist](pentest/instrumenty-i-skripty/ios/info.plist.md)
     * [ios emulator](pentest/instrumenty-i-skripty/ios/ios-emulator.md)
     * [passionfruit](pentest/instrumenty-i-skripty/ios/passionfruit.md)
+    * [Grapefruit \("NG passionfruit"\)](pentest/instrumenty-i-skripty/ios/grapefruit-ng-passionfruit.md)
     * [Смотреть логи](pentest/instrumenty-i-skripty/ios/smotret-logi.md)
     * [ipanema](pentest/instrumenty-i-skripty/ios/ipanema.md)
 
