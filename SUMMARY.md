@@ -34,6 +34,7 @@
       * [Alamofire](programming/untitled/frameworks-and-libraries/network/alamofire.md)
       * [HTTP Requests](programming/untitled/frameworks-and-libraries/network/http-requests.md)
     * [VPN Detection](programming/untitled/frameworks-and-libraries/vpn-detection.md)
+    * [RxSwift](programming/untitled/frameworks-and-libraries/rxswift.md)
     * [Jailbreak Detection](programming/untitled/frameworks-and-libraries/jailbreak-detection.md)
   * [Xcode: Build Project](programming/untitled/build-project.md)
   * [Xcode: Install IPA](programming/untitled/xcode-install-ipa.md)
