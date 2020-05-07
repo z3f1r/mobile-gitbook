@@ -17,6 +17,7 @@
   * [Firebase SDK](programming/analitika/firebase/README.md)
     * [Intro](programming/analitika/firebase/intro.md)
     * [Компоненты](programming/analitika/firebase/komponenty/README.md)
+      * [Firebase](programming/analitika/firebase/komponenty/firebase.md)
       * [FirebaseABTesting](programming/analitika/firebase/komponenty/firebaseabtesting.md)
       * [FirebaseAnalytics\[Interop\]](programming/analitika/firebase/komponenty/firebaseanalytics.md)
       * [FirebaseAppDistribution](programming/analitika/firebase/komponenty/firebaseappdistribution.md)
