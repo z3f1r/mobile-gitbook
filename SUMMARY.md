@@ -51,6 +51,8 @@
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
     * [Core](programming/untitled/frameworks-and-libraries/core.md)
     * [СDP](programming/untitled/frameworks-and-libraries/sdp.md)
+    * [Cryptography](programming/untitled/frameworks-and-libraries/cryptography.md)
+    * [Async](programming/untitled/frameworks-and-libraries/async.md)
     * [Store Data](programming/untitled/frameworks-and-libraries/store-data.md)
     * [UI](programming/untitled/frameworks-and-libraries/ui.md)
     * [Network](programming/untitled/frameworks-and-libraries/network/README.md)
