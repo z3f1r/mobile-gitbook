@@ -6,6 +6,11 @@ description: >-
 
 # FirebaseCore
 
+## Frameworks
+
+* Foundation
+* UIKit/AppKit
+
 ## Dependencies
 
 * GoogleUtilities/Environment
