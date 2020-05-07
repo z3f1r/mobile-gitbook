@@ -1,2 +1,2 @@
-# FirebaseAnalytics
+# FirebaseAnalytics\[Interop\]
 

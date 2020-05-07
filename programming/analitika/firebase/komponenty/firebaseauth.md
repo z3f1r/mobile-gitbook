@@ -1,2 +1,2 @@
-# FirebaseAuth
+# FirebaseAuth\[Interop\]
 

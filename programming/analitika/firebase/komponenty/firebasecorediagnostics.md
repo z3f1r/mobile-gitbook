@@ -1,2 +1,2 @@
-# FirebaseCoreDiagnostics
+# FirebaseCoreDiagnostics\[Interop\]
 
