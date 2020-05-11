@@ -52,3 +52,5 @@ bfinject - дамп ios приложения \(работает только с 
 
 {% file src="../../../.gitbook/assets/bfinject\_fixed.tar" %}
 
+Проекты Clutch и Rasticrac заброшены. Начиная с 11 ios можно использовать [https://github.com/BishopFox/bfinject/blob/master/README.md\#decrypt-app-store-apps](https://github.com/BishopFox/bfinject/blob/master/README.md#decrypt-app-store-apps) для дампа бинарей. \(Что б заработал, необходимо фиксануть скрипт: bfinject\_fixed\) На телефоне бросаю в /var/tmp/\*
+
