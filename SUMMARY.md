@@ -233,7 +233,7 @@
 * [Tools](reverse-engineering/tools/README.md)
   * [frida](reverse-engineering/tools/frida/README.md)
     * [Запуск скриптов](reverse-engineering/tools/frida/zapusk-skriptov.md)
-    * [Общие команды](reverse-engineering/tools/frida/obshie-komandy.md)
+    * [Общие команды \(JS API\)](reverse-engineering/tools/frida/obshie-komandy.md)
     * [Примеры](reverse-engineering/tools/frida/primery/README.md)
       * [Android](reverse-engineering/tools/frida/primery/android.md)
       * [iOS](reverse-engineering/tools/frida/primery/ios.md)
