@@ -31,3 +31,7 @@ frida-trace -U -i CCCrypt* -m "-[NSURLRequest *]" -a WhatsApp!FF1235 WhatsApp
 }		
 ```
 
+## frida-ls-devices
+
+узнать device-id \(для ключа device\)
+
