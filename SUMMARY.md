@@ -233,6 +233,7 @@
 * [Tools](reverse-engineering/tools/README.md)
   * [frida](reverse-engineering/tools/frida/README.md)
     * [Установка](reverse-engineering/tools/frida/ustanovka.md)
+    * [Frida CLI](reverse-engineering/tools/frida/frida-cli.md)
     * [Запуск скриптов](reverse-engineering/tools/frida/zapusk-skriptov.md)
     * [Общие команды \(JS API\)](reverse-engineering/tools/frida/obshie-komandy.md)
     * [Примеры](reverse-engineering/tools/frida/primery/README.md)
