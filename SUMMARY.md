@@ -197,6 +197,7 @@
 * [Кейсы](pentest/keisy/README.md)
   * [Flutter SDK: RE/Capture Traffic](pentest/keisy/flutter-sdk-capture-traffic.md)
   * [Disable/Delete any app w/o root](pentest/keisy/disable-delete-any-app-w-o-root.md)
+  * [Запись трафика Android](pentest/keisy/zapis-trafika-android.md)
   * [Firebase](pentest/keisy/firebase.md)
 * [Bug Bounty](pentest/bug-bounty.md)
 * [Настройка окружения](pentest/nastroika-okruzheniya/README.md)
