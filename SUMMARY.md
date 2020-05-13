@@ -181,6 +181,7 @@
   * [Файловая система](forensic/android/failovaya-sistema/README.md)
     * [Android KeyStore](forensic/android/failovaya-sistema/android-keystore.md)
   * [Общая информация о системе: Полезные тулзы и команды](forensic/android/obshaya-informaciya-o-sisteme-poleznye-tulzy-i-komandy.md)
+  * [Создание и восстановление резервной копии](forensic/android/sozdanie-i-vosstanovlenie-rezervnoi-kopii.md)
   * [Память процессов](forensic/android/pamyat-processov.md)
   * [Root](forensic/android/root/README.md)
     * [A/B-разделы](forensic/android/root/a-b-razdely.md)
