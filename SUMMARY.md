@@ -241,6 +241,7 @@
     * [Примеры](reverse-engineering/tools/frida/primery/README.md)
       * [Android](reverse-engineering/tools/frida/primery/android.md)
       * [iOS](reverse-engineering/tools/frida/primery/ios.md)
+      * [Unity/Mono](reverse-engineering/tools/frida/primery/unity-mono.md)
   * [emulators](reverse-engineering/tools/emulators.md)
   * [luject](reverse-engineering/tools/luject.md)
   * [xcrun](reverse-engineering/tools/xcrun.md)
