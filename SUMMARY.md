@@ -10,6 +10,7 @@
   * [Branch.IO](programming/analitika/branch.io.md)
   * [Paypal for Business](programming/analitika/paypal-for-business.md)
   * [Emarsys](programming/analitika/emarsys.md)
+  * [MobileAppTracker](programming/analitika/mobileapptracker.md)
   * [AppsFlyer](programming/analitika/appsflyer.md)
   * [Fabric](programming/analitika/fabric.md)
   * [Facebook ads](programming/analitika/facebook.md)
