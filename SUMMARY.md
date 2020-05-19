@@ -8,6 +8,7 @@
 * [Аналитика](programming/analitika/README.md)
   * [Twitter ads](programming/analitika/twitter-ads.md)
   * [Branch.IO](programming/analitika/branch.io.md)
+  * [Amplitude Analytics](programming/analitika/amplitude-analytics.md)
   * [Paypal for Business](programming/analitika/paypal-for-business.md)
   * [Emarsys](programming/analitika/emarsys.md)
   * [MobileAppTracker](programming/analitika/mobileapptracker.md)
