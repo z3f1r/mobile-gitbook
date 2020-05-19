@@ -147,6 +147,7 @@
   * [API levels & NDK Version](programming/android/api-levels-and-ndk-version.md)
 * [Рекомендации](programming/rekomendacii/README.md)
   * [Хранение PIN-кода и шифрование информации](programming/rekomendacii/khranenie-pin-koda-i-shifrovanie-informacii.md)
+  * [Разработка приложения для людей с ограниченными возможностями](programming/rekomendacii/razrabotka-prilozheniya-dlya-lyudei-s-ogranichennymi-vozmozhnostyami.md)
 * [AirWatch MDM](programming/airwatch-mdm.md)
 * [Дистрибьюция](programming/distribyuciya.md)
 
