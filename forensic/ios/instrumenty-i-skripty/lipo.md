@@ -15,5 +15,9 @@ man: [https://llvm.org/docs/CommandGuide/llvm-lipo.html](https://llvm.org/docs/C
 lipo -archs <binary path>
 ```
 
+ С помощью file можно проверить, что это mach-O: 
 
+```text
+file <binary> | grep Mach-O
+```
 
