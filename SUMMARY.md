@@ -14,6 +14,7 @@
   * [MobileAppTracker](programming/analitika/mobileapptracker.md)
   * [AppsFlyer](programming/analitika/appsflyer.md)
   * [Fabric](programming/analitika/fabric.md)
+  * [Mixpanel Analytics](programming/analitika/mixpanel-analytics.md)
   * [Facebook ads](programming/analitika/facebook.md)
   * [Yandex](programming/analitika/yandex.md)
   * [Firebase SDK](programming/analitika/firebase/README.md)
