@@ -35,5 +35,12 @@ Caution: You must use zipalign at one of two specific points in the app-building
 
 ### iOS
 
+Патчинг, переподписывание
+
+resign: [https://github.com/vtky/resign](https://github.com/vtky/resign)  
+IPAPatch: [https://github.com/Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)
+
+
+
 
 
