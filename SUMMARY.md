@@ -20,6 +20,7 @@
   * [Yandex](programming/analitika/yandex.md)
   * [Firebase SDK](programming/analitika/firebase/README.md)
     * [Intro](programming/analitika/firebase/intro.md)
+    * [Примеры](programming/analitika/firebase/primery.md)
     * [Компоненты](programming/analitika/firebase/komponenty/README.md)
       * [Firebase](programming/analitika/firebase/komponenty/firebase.md)
       * [FirebaseABTesting](programming/analitika/firebase/komponenty/firebaseabtesting.md)
