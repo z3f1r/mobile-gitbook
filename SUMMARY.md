@@ -229,6 +229,7 @@
     * [iFunBox](pentest/instrumenty-i-skripty/ios/ifunbox.md)
     * [needle](pentest/instrumenty-i-skripty/ios/needle.md)
     * [Info.plist](pentest/instrumenty-i-skripty/ios/info.plist.md)
+    * [idb](pentest/instrumenty-i-skripty/ios/idb.md)
     * [ios emulator](pentest/instrumenty-i-skripty/ios/ios-emulator.md)
     * [passionfruit](pentest/instrumenty-i-skripty/ios/passionfruit.md)
     * [Grapefruit \("NG passionfruit"\)](pentest/instrumenty-i-skripty/ios/grapefruit-ng-passionfruit.md)
