@@ -59,5 +59,15 @@
       <td style="text-align:left">google_storage_bucket</td>
       <td style="text-align:left">&lt;project_id&gt;.appspot.com</td>
     </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">CLIENT_ID, default_web_client_id, ANDROID_CLIENT_ID</td>
+      <td style="text-align:left">300679433148-1ki4c4nmjvkec1dch30od15fv1uvdj1o.apps.googleusercontent.com</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">REVERSED_CLIENT_ID</td>
+      <td style="text-align:left">com.googleusercontent.apps.300679433148-1ki4c4nmjvkec1dch30od15fv1uvdj1o</td>
+    </tr>
   </tbody>
 </table>
