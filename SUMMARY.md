@@ -240,6 +240,7 @@
 * [iOS](reverse-engineering/ios/README.md)
   * [iOS Audio Framework](reverse-engineering/ios/ios-audio-framework.md)
   * [Facebook SDK](reverse-engineering/ios/facebook-sdk.md)
+  * [iRET](reverse-engineering/ios/iret.md)
   * [Swift](reverse-engineering/ios/swift.md)
 * [Tools](reverse-engineering/tools/README.md)
   * [frida](reverse-engineering/tools/frida/README.md)
