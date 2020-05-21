@@ -221,6 +221,7 @@
   * [Parsing APK: Извлечение информации](pentest/instrumenty-i-skripty/parsing-apk-izvlechenie-informacii.md)
   * [FBFlipper](pentest/instrumenty-i-skripty/fbflipper.md)
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
+  * [truegaze](pentest/instrumenty-i-skripty/truegaze.md)
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
     * [meetle](pentest/instrumenty-i-skripty/ios/meetle.md)
     * [Static Analys with Frida](pentest/instrumenty-i-skripty/ios/static-analys-with-frida.md)
