@@ -276,6 +276,7 @@
   * [DexCalibur](reverse-engineering/tools/dexcalibur.md)
   * [dex2jar](reverse-engineering/tools/dex2jar.md)
   * [AndroPyTool](reverse-engineering/tools/andropytool.md)
+  * [APKiD](reverse-engineering/tools/apkid.md)
   * [enjarify](reverse-engineering/tools/enjarify.md)
   * [objection](reverse-engineering/tools/objection.md)
 * [Кейсы](reverse-engineering/keisy/README.md)
