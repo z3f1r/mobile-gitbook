@@ -9,6 +9,10 @@ universal script unpinning: [https://codeshare.frida.re/@pcipolloni/universal-an
 [https://github.com/LizhangHuang/FridaScript](https://github.com/LizhangHuang/FridaScript)  
 
 
+Извлечение информации о Bluetooth: [https://github.com/k3170makan/FridaAndroidScripts/tree/master/bluecrawl](https://github.com/k3170makan/FridaAndroidScripts/tree/master/bluecrawl)
+
+
+
 
 
 
