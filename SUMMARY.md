@@ -154,7 +154,14 @@
   * [Хранение PIN-кода и шифрование информации](programming/rekomendacii/khranenie-pin-koda-i-shifrovanie-informacii.md)
   * [Разработка приложения для людей с ограниченными возможностями](programming/rekomendacii/razrabotka-prilozheniya-dlya-lyudei-s-ogranichennymi-vozmozhnostyami.md)
 * [AirWatch MDM](programming/airwatch-mdm.md)
-* [Дистрибьюция](programming/distribyuciya.md)
+* [Дистрибьюция](programming/distribyuciya/README.md)
+  * [App Store](programming/distribyuciya/app-store.md)
+  * [Crashlytics](programming/distribyuciya/crashlytics.md)
+  * [Cydia](programming/distribyuciya/cydia.md)
+  * [Diawi](programming/distribyuciya/diawi.md)
+  * [Google Play](programming/distribyuciya/google-play.md)
+  * [TestFeiry](programming/distribyuciya/testfeiry.md)
+  * [TestFlight](programming/distribyuciya/testflight.md)
 
 ## Forensic
 
