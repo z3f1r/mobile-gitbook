@@ -155,6 +155,7 @@
   * [Разработка приложения для людей с ограниченными возможностями](programming/rekomendacii/razrabotka-prilozheniya-dlya-lyudei-s-ogranichennymi-vozmozhnostyami.md)
 * [AirWatch MDM](programming/airwatch-mdm.md)
 * [Дистрибьюция](programming/distribyuciya/README.md)
+  * [AppCenter](programming/distribyuciya/appcenter.md)
   * [App Store](programming/distribyuciya/app-store.md)
   * [AppTester](programming/distribyuciya/apptester.md)
   * [Crashlytics](programming/distribyuciya/crashlytics.md)
