@@ -6,6 +6,7 @@
 ## Programming
 
 * [Аналитика](programming/analitika/README.md)
+  * [Some Papers](programming/analitika/some-papers.md)
   * [Примеры токенов/ключей и тп](programming/analitika/primery-tokenov-klyuchei-i-tp.md)
   * [Twitter ads](programming/analitika/twitter-ads.md)
   * [Branch.IO](programming/analitika/branch.io.md)
