@@ -156,10 +156,12 @@
 * [AirWatch MDM](programming/airwatch-mdm.md)
 * [Дистрибьюция](programming/distribyuciya/README.md)
   * [App Store](programming/distribyuciya/app-store.md)
+  * [AppTester](programming/distribyuciya/apptester.md)
   * [Crashlytics](programming/distribyuciya/crashlytics.md)
   * [Cydia](programming/distribyuciya/cydia.md)
   * [Diawi](programming/distribyuciya/diawi.md)
   * [Google Play](programming/distribyuciya/google-play.md)
+  * [Hockey App](programming/distribyuciya/hockey-app.md)
   * [TestFeiry](programming/distribyuciya/testfeiry.md)
   * [TestFlight](programming/distribyuciya/testflight.md)
 
