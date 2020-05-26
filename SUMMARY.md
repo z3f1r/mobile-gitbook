@@ -16,6 +16,7 @@
   * [MobileAppTracker](programming/analitika/mobileapptracker.md)
   * [AppsFlyer](programming/analitika/appsflyer/README.md)
     * [About](programming/analitika/appsflyer/about.md)
+    * [Настройка аккаунта](programming/analitika/appsflyer/nastroika-akkaunta.md)
     * [Examples](programming/analitika/appsflyer/examples.md)
   * [Fabric](programming/analitika/fabric.md)
   * [Mixpanel Analytics](programming/analitika/mixpanel-analytics.md)
