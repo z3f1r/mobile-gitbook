@@ -1,5 +1,7 @@
 # AppsFlyer
 
+Examples apps: [https://github.com/AppsFlyerSDK/SampleApp-Examples](https://github.com/AppsFlyerSDK/SampleApp-Examples)
+
 Пример
 
 ```java
