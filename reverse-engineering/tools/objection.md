@@ -10,3 +10,11 @@
 
 Патчинг Split APKs [https://nickbloor.co.uk/2020/03/29/patching-android-split-apks/](https://nickbloor.co.uk/2020/03/29/patching-android-split-apks/)
 
+Кратко:
+
+```text
+Поиск CNF*:
+ios hooking search [classes|methods] CNF 
+
+```
+
