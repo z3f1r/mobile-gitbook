@@ -72,6 +72,7 @@
     * [VPN Detection](programming/untitled/frameworks-and-libraries/vpn-detection.md)
     * [RxSwift](programming/untitled/frameworks-and-libraries/rxswift.md)
     * [Jailbreak Detection](programming/untitled/frameworks-and-libraries/jailbreak-detection.md)
+    * [Other](programming/untitled/frameworks-and-libraries/other.md)
   * [Xcode: Build Project](programming/untitled/build-project.md)
   * [Xcode: Install IPA](programming/untitled/xcode-install-ipa.md)
   * [Системы зависимостей пакетов](programming/untitled/sistemy-zavisimostei-paketov/README.md)
