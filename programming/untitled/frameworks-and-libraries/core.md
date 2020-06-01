@@ -10,7 +10,9 @@
 
 Еще статья про CoreData: [https://habr.com/ru/post/436510/](https://habr.com/ru/post/436510/)
 
+Выглядят они примерно так: \*xcdatamodeld/\*.xcdatamodel/contents
 
+![](../../../.gitbook/assets/snimok-ekrana-2020-06-01-v-20.31.34.png)
 
 NSPersistentStore  
 [https://forum.swiftbook.ru/t/nspersistentstore-swift-4-0-chast-2/4581](https://forum.swiftbook.ru/t/nspersistentstore-swift-4-0-chast-2/4581)  
