@@ -14,6 +14,10 @@
 
 ![](../../../.gitbook/assets/snimok-ekrana-2020-06-01-v-20.31.34.png)
 
+Затем, можно по названию сущности, создавать объекты.
+
+
+
 NSPersistentStore  
 [https://forum.swiftbook.ru/t/nspersistentstore-swift-4-0-chast-2/4581](https://forum.swiftbook.ru/t/nspersistentstore-swift-4-0-chast-2/4581)  
 [https://developer.apple.com/documentation/coredata/nspersistentstore?language=objc](https://developer.apple.com/documentation/coredata/nspersistentstore?language=objc)  
