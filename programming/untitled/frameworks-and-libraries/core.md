@@ -2,6 +2,8 @@
 
 ## CoreData
 
+Служит для описания сущностей, связей и тд. Используются для описания хранимых данных.
+
 Работа с CoreData в swift  
 [https://github.com/jessesquires/talks/blob/master/2015/04-14%20Using%20Core%20Data%20in%20Swift/using\_core\_data\_in\_swift.md](https://github.com/jessesquires/talks/blob/master/2015/04-14%20Using%20Core%20Data%20in%20Swift/using_core_data_in_swift.md)  
 [http://macbug.ru/cocoa/coredataupstorage](http://macbug.ru/cocoa/coredataupstorage)
