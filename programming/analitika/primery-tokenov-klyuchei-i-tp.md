@@ -72,3 +72,5 @@
   </tbody>
 </table>
 
+![](../../.gitbook/assets/izobrazhenie%20%2820%29.png)
+
