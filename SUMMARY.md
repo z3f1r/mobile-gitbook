@@ -75,6 +75,8 @@
     * [Other](programming/untitled/frameworks-and-libraries/other.md)
   * [Xcode: Build Project](programming/untitled/build-project.md)
   * [Xcode: Install IPA](programming/untitled/xcode-install-ipa.md)
+  * [Другие инструменты](programming/untitled/drugie-instrumenty/README.md)
+    * [mint](programming/untitled/drugie-instrumenty/mint.md)
   * [Системы зависимостей пакетов](programming/untitled/sistemy-zavisimostei-paketov/README.md)
     * [Carthage](programming/untitled/sistemy-zavisimostei-paketov/carthage.md)
     * [CocoaPods](programming/untitled/sistemy-zavisimostei-paketov/cocoapods.md)
