@@ -61,6 +61,8 @@
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
     * [App extensions](programming/untitled/frameworks-and-libraries/app-extensions/README.md)
       * [About](programming/untitled/frameworks-and-libraries/app-extensions/about.md)
+      * [Static Analys](programming/untitled/frameworks-and-libraries/app-extensions/static-analys.md)
+      * [Dynamic Analys](programming/untitled/frameworks-and-libraries/app-extensions/dynamic-analys.md)
     * [Async](programming/untitled/frameworks-and-libraries/async.md)
     * [СDP](programming/untitled/frameworks-and-libraries/sdp.md)
     * [Core](programming/untitled/frameworks-and-libraries/core.md)
