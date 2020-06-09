@@ -30,5 +30,7 @@ $ grep -nr NSExtensionPointIdentifier Payload/Telegram\ X.app/
 
 ## Проверить обмен данными с Containing App
 
+Не забываем, что напрямую доступа к контейнерам друг друга нет у Containing App и App Extension. Однако, data sharing доступен.
+
 ## Проверить, ограничивает ли приложение использование расширений
 
