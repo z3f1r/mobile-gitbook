@@ -20,7 +20,11 @@ com.apple.share-services
 com.apple.widget-extension  
 com.apple.tv-services  
 com.apple.watchkit  
-com.apple.callkit.call-directory`
+com.apple.callkit.call-directory  
+com.apple.message-payload-provider  
+com.apple.usernotifications.content-extension  
+com.apple.usernotifications.service  
+com.apple.intents-service`
 
 Некоторые примеры
 
