@@ -30,7 +30,11 @@ $ grep -nr NSExtensionPointIdentifier Payload/Telegram\ X.app/
 
 ## Проверить обмен данными с Containing App
 
-Не забываем, что напрямую доступа к контейнерам друг друга нет у Containing App и App Extension. Однако, data sharing доступен.
+Не забываем, что напрямую доступа к контейнерам друг друга нет у Containing App и App Extension. Однако, data sharing доступен. Это сделано за счет App Groups и NSUserDefaults API.
+
+![](../../../../.gitbook/assets/izobrazhenie%20%2823%29.png)
+
+Если расширение скачивает файлы через NSURLSession, то надо настроить shared container, чтобы содержащее расширение приложение могло получить доступ к скачиваемым файлам.
 
 ## Проверить, ограничивает ли приложение использование расширений
 
