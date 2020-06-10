@@ -61,6 +61,7 @@
   * [Frameworks and Libraries](programming/untitled/frameworks-and-libraries/README.md)
     * [\[Pentest\] App extensions](programming/untitled/frameworks-and-libraries/app-extensions/README.md)
       * [About](programming/untitled/frameworks-and-libraries/app-extensions/about.md)
+      * [Extension types](programming/untitled/frameworks-and-libraries/app-extensions/extension-types.md)
       * [Static Analys](programming/untitled/frameworks-and-libraries/app-extensions/static-analys.md)
       * [Dynamic Analys](programming/untitled/frameworks-and-libraries/app-extensions/dynamic-analys.md)
     * [Async](programming/untitled/frameworks-and-libraries/async.md)
