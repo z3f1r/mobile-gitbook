@@ -18,3 +18,9 @@ ios hooking search [classes|methods] CNF
 
 ```
 
+Написаниее плагинов для objection: [https://github.com/sensepost/objection/wiki/Plugins](https://github.com/sensepost/objection/wiki/Plugins)
+
+Работа с задачами \(возможно, здесь можно закидывать свои скрипты\): [https://github.com/sensepost/objection/wiki/Working-with-Jobs](https://github.com/sensepost/objection/wiki/Working-with-Jobs)
+
+
+
