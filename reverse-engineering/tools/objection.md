@@ -13,7 +13,7 @@
 Запуск:
 
 ```text
-objection --gadget "ru.sberbank.sberfriendefs" explore -P "/Users/**/Work/pentest/projects/**/scripts" -s "plugin bypass info"
+objection --gadget "ru.sberbank.*" explore -P "/Users/**/Work/pentest/projects/**/scripts" -s "plugin bypass info"
 ```
 
 -P - указать папку с плагинами  
@@ -22,29 +22,29 @@ objection --gadget "ru.sberbank.sberfriendefs" explore -P "/Users/**/Work/pentes
 Пример плагина \(файл \_\_init\_\_.py\)
 
 ```python
-__description__ = "SberFriend: JB Bypass (Wasabit)"
+__description__ = "***: JB Bypass (***)"
 
 from objection.utils.plugin import Plugin
 
 s = """
 rpc.exports = {
-    wasabit: function() {
+    test: function() {
         console.log("[+] Jailbreak Detection Bypass"); 
         if (ObjC.available) {
             try {  
-                var module = "SDSearch";  // finded by frida-trace -U -f ru.sberbank.sbfriendefs -i "sbf_wasabit"
+                var module = "***";  // finded by frida-trace -U -f ru.sberbank.*** -i "sbf_***"
                 
-                var functionName = "sbf_wasabit";
+                var functionName = "sbf_***";
                 
-                var sbf_wasabit_ptr = Module.findExportByName(module, functionName);
-                // var sbf_wasabit_func = new NativeFunction(sbf_wasabit_ptr, "bool", []);
+                var sbf_***_ptr = Module.findExportByName(module, functionName);
+                // var sbf_***_func = new NativeFunction(sbf_***_ptr, "bool", []);
                 
-                Interceptor.attach(sbf_wasabit_ptr, {
+                Interceptor.attach(sbf_***_ptr, {
                     onLeave: function(retval) {
-                        // console.log("[*] retval sbf_wasabit(): " + retval);
+                        // console.log("[*] retval sbf_***(): " + retval);
                         var newretval = ptr("0x0"); 
                         retval.replace(newretval);
-                        console.log("[*] Wasabit bypass");
+                        console.log("[*] *** bypass");
                     }
                 });
             } 
@@ -61,7 +61,7 @@ rpc.exports = {
 
 
 class JBBypass(Plugin):
-    """ JBBypass is a plugin for bypass JB Detection (wasabit) """
+    """ JBBypass is a plugin for bypass JB Detection (***) """
 
     def __init__(self, ns):
         """
@@ -92,7 +92,7 @@ class JBBypass(Plugin):
             
         """
 
-        self.api.wasabit()
+        self.api.test()
         # print('Frida version: {0}'.format(v))
 
 
