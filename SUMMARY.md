@@ -227,6 +227,7 @@
   * [Intro](pentest/uyazvimosti-i-ataki/intro.md)
   * [Типичные ошибки реализации SMS-аутентификации](pentest/uyazvimosti-i-ataki/tipichnye-oshibki-realizacii-sms-autentifikacii.md)
   * [Attack Surface](pentest/uyazvimosti-i-ataki/attack-surface.md)
+  * [PIN Bruteforce](pentest/uyazvimosti-i-ataki/pin-bruteforce.md)
   * [Java Object Deserialization](pentest/uyazvimosti-i-ataki/java-object-deserialization.md)
   * [WebView](pentest/uyazvimosti-i-ataki/webview.md)
   * [Android](pentest/uyazvimosti-i-ataki/android.md)
