@@ -11,6 +11,8 @@ ios-sim - управление xcode эмулятором
 
 GrinningSoul обещают запустить полноценный эмулятор осенью 2020 \(100$/year\): [https://www.grinningsoul.com/](https://www.grinningsoul.com/)
 
+Попытка запустить iOS на QEMU: [https://github.com/alephsecurity/xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)
+
 
 
 
