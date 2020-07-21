@@ -244,6 +244,7 @@
 * [Bug Bounty](pentest/bug-bounty.md)
 * [Настройка окружения](pentest/nastroika-okruzheniya/README.md)
   * [iOS](pentest/nastroika-okruzheniya/ios.md)
+  * [Android](pentest/nastroika-okruzheniya/android.md)
 * [Books & Papers](pentest/books-and-papers.md)
 * [Инструменты и скрипты](pentest/instrumenty-i-skripty/README.md)
   * [Комбайны](pentest/instrumenty-i-skripty/kombainy.md)
