@@ -8,7 +8,10 @@
 
 Структура: 
 
-![](../../.gitbook/assets/snimok-ekrana-2020-06-17-v-14.39.49.png)
+```text
+name_plugin/         - <name_plugin> - название плагина
+    __init__.py  - код
+```
 
 Запуск:
 
