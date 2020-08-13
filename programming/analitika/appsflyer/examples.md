@@ -11,7 +11,7 @@ import com.appsflyer.AppsFlyerConversionListener;
 import com.appsflyer.AppsFlyerLib;
 
 static  {
-    APP_FL_KEY = "i7EvqrSvMEig9UNGJLX2M1";
+    APP_FL_KEY = "i7EvqrSvMEig9UNGJLX111";
 }
 
 AppsFlyerLib.getInstance().init(APP_FL_KEY, appsFlyerConversionListener, getApplicationContext()).getInstance().startTracking(this);
