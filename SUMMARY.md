@@ -237,6 +237,7 @@
   * [Dump memory](pentest/keisy/dump-memory.md)
   * [Запись трафика Android](pentest/keisy/zapis-trafika-android.md)
   * [Запись траффика iOS](pentest/keisy/zapis-traffika-ios.md)
+  * [Про сниффинг трафика HTTP2/gRPC](pentest/keisy/pro-sniffing-trafika-http2-grpc.md)
   * [Android Dependency Check](pentest/keisy/android-dependency-check.md)
   * [Закинуть GApps на эмулятор](pentest/keisy/zakinut-gapps-na-emulyator.md)
   * [Firebase](pentest/keisy/firebase.md)
