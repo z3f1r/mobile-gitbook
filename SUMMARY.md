@@ -26,6 +26,7 @@
   * [Firebase SDK](programming/analitika/firebase/README.md)
     * [Intro](programming/analitika/firebase/intro.md)
     * [Примеры](programming/analitika/firebase/primery.md)
+    * [Firebase Cloud Messaging](programming/analitika/firebase/firebase-cloud-messaging.md)
     * [Компоненты](programming/analitika/firebase/komponenty/README.md)
       * [Firebase](programming/analitika/firebase/komponenty/firebase.md)
       * [FirebaseABTesting](programming/analitika/firebase/komponenty/firebaseabtesting.md)
