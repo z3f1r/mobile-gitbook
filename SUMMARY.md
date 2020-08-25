@@ -52,6 +52,7 @@
       * [GoogleUtilitiesComponents](programming/analitika/firebase/komponenty/googleutilitiescomponents.md)
   * [Crashlytics](programming/analitika/crashlytics.md)
   * [GTM: Google Tag Manager](programming/analitika/gtm-google-tag-manager.md)
+  * [Google Maps](programming/analitika/google-maps.md)
   * [Google Analytics](programming/analitika/google-analytics.md)
   * [Flurry](programming/analitika/flurry.md)
   * [HockeyApp](programming/analitika/hockeyapp.md)
