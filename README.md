@@ -1,4 +1,4 @@
-# About the author
+# About the Author
 
 Someday something will appear here :\) 
 

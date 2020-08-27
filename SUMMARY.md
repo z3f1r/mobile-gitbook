@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the author](README.md)
+* [About the Author](README.md)
 * [Pentesting Methodology](pentesting-methodology.md)
 
 ## Programming
