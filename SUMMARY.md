@@ -235,6 +235,7 @@
   * [PIN Bruteforce](pentest/uyazvimosti-i-ataki/pin-bruteforce.md)
   * [Java Object Deserialization](pentest/uyazvimosti-i-ataki/java-object-deserialization.md)
   * [WebView](pentest/uyazvimosti-i-ataki/webview.md)
+  * [AppLinks](pentest/uyazvimosti-i-ataki/applinks.md)
 * [Кейсы](pentest/keisy/README.md)
   * [Flutter SDK: RE/Capture Traffic](pentest/keisy/flutter-sdk-capture-traffic.md)
   * [Disable/Delete any app w/o root](pentest/keisy/disable-delete-any-app-w-o-root.md)
