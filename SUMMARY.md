@@ -263,6 +263,7 @@
   * [Drozer](pentest/instrumenty-i-skripty/drozer.md)
   * [truegaze](pentest/instrumenty-i-skripty/truegaze.md)
   * [iOS](pentest/instrumenty-i-skripty/ios/README.md)
+    * [iblessing](pentest/instrumenty-i-skripty/ios/iblessing.md)
     * [meetle](pentest/instrumenty-i-skripty/ios/meetle.md)
     * [Static Analys with Frida](pentest/instrumenty-i-skripty/ios/static-analys-with-frida.md)
     * [App Transport Security](pentest/instrumenty-i-skripty/ios/app-transport-security.md)
