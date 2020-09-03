@@ -309,6 +309,7 @@
   * [APKiD](reverse-engineering/tools/apkid.md)
   * [enjarify](reverse-engineering/tools/enjarify.md)
   * [objection](reverse-engineering/tools/objection.md)
+  * [Diff APKs, JARs,..](reverse-engineering/tools/diff-apks-jars-...md)
 * [Кейсы](reverse-engineering/keisy/README.md)
   * [Hybrid App](reverse-engineering/keisy/hybrid-app/README.md)
     * [Intro](reverse-engineering/keisy/hybrid-app/debug-webview-hybrid-app.md)
