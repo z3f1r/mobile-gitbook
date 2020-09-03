@@ -1,6 +1,6 @@
 # Материалы
 
-## Базовые вещи
+## Базовые вещи 
 
 * [Жизненый цикл контроллера и вью](https://bradbambara.wordpress.com/2015/01/18/object-life-cycle-uiview/)
 * [Про репорт крашей](https://developer.apple.com/library/archive/technotes/tn2151/_index.html)
