@@ -58,7 +58,6 @@
   * [HockeyApp](programming/analitika/hockeyapp.md)
 * [iOS](programming/untitled/README.md)
   * [Материалы](programming/untitled/materialy.md)
-  * [Untitled](programming/untitled/untitled.md)
   * [iOS: SSL Pinning](programming/untitled/ios-ssl-unpinning.md)
   * [ЯП](programming/untitled/yap/README.md)
     * [Swift](programming/untitled/yap/swift.md)
