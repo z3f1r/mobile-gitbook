@@ -4,6 +4,10 @@
 
 ![](../../../.gitbook/assets/izobrazhenie%20%2826%29.png)
 
+## build.gradle
+
+Глобальные зависимости, внутри проставляется как собирать проекты, как они связаны и тп
+
 ## settings.gradle
 
 ```text
