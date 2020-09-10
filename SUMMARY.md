@@ -172,6 +172,7 @@
   * [API levels & NDK Version](programming/android/api-levels-and-ndk-version.md)
 * [Hybrid App](programming/hybrid-app/README.md)
   * [Frameworks](programming/hybrid-app/frameworks.md)
+  * [Google Web Toolkit](programming/hybrid-app/google-web-toolkit.md)
 * [Рекомендации](programming/rekomendacii/README.md)
   * [Хранение PIN-кода и шифрование информации](programming/rekomendacii/khranenie-pin-koda-i-shifrovanie-informacii.md)
   * [Разработка приложения для людей с ограниченными возможностями](programming/rekomendacii/razrabotka-prilozheniya-dlya-lyudei-s-ogranichennymi-vozmozhnostyami.md)
