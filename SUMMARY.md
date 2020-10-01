@@ -336,6 +336,7 @@
   * [Поиск уникальных строк в Smali](reverse-engineering/keisy/poisk-unikalnykh-strok-v-smali.md)
   * [Патчинг](reverse-engineering/keisy/patching.md)
   * [Android: SSL Unpinning](reverse-engineering/keisy/ssl-unpinning.md)
+  * [iOS SSL Unpinning](reverse-engineering/keisy/ios-ssl-unpinning.md)
   * [Объединить несколько JAR](reverse-engineering/keisy/obedinit-neskolko-jar.md)
   * [Защита от frida](reverse-engineering/keisy/zashita-ot-frida.md)
 * [Статьи](reverse-engineering/stati.md)
