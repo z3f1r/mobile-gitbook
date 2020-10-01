@@ -228,7 +228,9 @@
   * [Создание и восстановление резервной копии](forensic/android/sozdanie-i-vosstanovlenie-rezervnoi-kopii.md)
   * [Память процессов](forensic/android/pamyat-processov.md)
   * [Root](forensic/android/root/README.md)
+    * [Common](forensic/android/root/common.md)
     * [A/B-разделы](forensic/android/root/a-b-razdely.md)
+    * [Su](forensic/android/root/su.md)
 
 ## Pentest
 
