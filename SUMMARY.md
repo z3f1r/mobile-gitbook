@@ -231,6 +231,7 @@
     * [Common](forensic/android/root/common.md)
     * [A/B-разделы](forensic/android/root/a-b-razdely.md)
     * [Su](forensic/android/root/su.md)
+    * [TWRP](forensic/android/root/twrp.md)
 
 ## Pentest
 
