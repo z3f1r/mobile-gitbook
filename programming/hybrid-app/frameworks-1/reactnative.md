@@ -19,12 +19,15 @@ npx react-native init MyTestApp
 Теперь можно запускать: 
 
 ```text
-npx react-native run-ios (или run-android)
+npx react-native start (запускаем упаковщик)
+npx react-native run-ios (или run-android; собираем проект, подключаемся упаковщику за новым бандлом)
 
 npx react-native run-android  --deviceId 64fe7667d340
 ```
 
 ## Debug
+
+Может потребоваться прокинуть порт: `adb reverse tcp:8081 tcp:8081`
 
 Можно с помощью Chrome DevTools/Safari/..
 
