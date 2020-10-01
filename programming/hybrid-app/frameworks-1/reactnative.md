@@ -20,5 +20,25 @@ npx react-native init MyTestApp
 
 ```text
 npx react-native run-ios (или run-android)
+
+npx react-native run-android  --deviceId 64fe7667d340
+```
+
+## Debug
+
+Можно с помощью Chrome DevTools/Safari/..
+
+Можно с помощью React DevTools
+
+```text
+npm install -g react-devtools
+react-devtools
+```
+
+Логи
+
+```text
+$ npx react-native log-ios
+$ npx react-native log-android
 ```
 
