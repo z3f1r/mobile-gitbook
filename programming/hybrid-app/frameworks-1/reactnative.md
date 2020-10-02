@@ -1,15 +1,23 @@
+---
+description: Node.js Framework
+---
+
 # ReactNative
 
 ## Install
 
 link: [https://reactnative.dev/docs/0.61/getting-started](https://reactnative.dev/docs/0.61/getting-started)
 
+## Пакетный менеджер
+
+yarn или npx
+
 ## Usage
 
 Create App:
 
 ```text
-npx react-native init MyTestApp
+npx react-native init MyTestApp [--template <Template Name>] 
 ```
 
 Или установить из репозитория
