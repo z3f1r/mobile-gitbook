@@ -63,3 +63,5 @@ $ npx react-native log-ios
 $ npx react-native log-android
 ```
 
+Еще статья про debugger integration: [https://github.com/jhen0409/react-native-debugger/blob/master/docs/debugger-integration.md](https://github.com/jhen0409/react-native-debugger/blob/master/docs/debugger-integration.md)
+
