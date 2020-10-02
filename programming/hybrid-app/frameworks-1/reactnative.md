@@ -2,7 +2,7 @@
 description: Node.js Framework
 ---
 
-# ReactNative
+# React Native
 
 ## Install
 
@@ -32,6 +32,12 @@ npx react-native run-ios (или run-android; собираем проект, п�
 
 npx react-native run-android  --deviceId 64fe7667d340
 ```
+
+## Меняем код
+
+Открываем App.js, изменяем. 
+
+Нажимаем R дважды или выбираем Reload из developer Menu \(cmd-M\) для отображения наших изменений.
 
 ## Debug
 
