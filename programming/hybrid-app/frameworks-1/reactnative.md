@@ -39,6 +39,10 @@ npx react-native run-android  --deviceId 64fe7667d340
 
 Нажимаем R дважды или выбираем Reload из developer Menu \(cmd-M\) для отображения наших изменений.
 
+Tutorial - для дальнейшего погружения: [https://reactnative.dev/docs/0.61/tutorial](https://reactnative.dev/docs/0.61/tutorial)
+
+Add some code in to existing app: [https://reactnative.dev/docs/0.61/integration-with-existing-apps](https://reactnative.dev/docs/0.61/integration-with-existing-apps) 
+
 ## Debug
 
 Может потребоваться прокинуть порт: `adb reverse tcp:8081 tcp:8081`
