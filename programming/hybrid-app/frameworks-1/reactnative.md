@@ -22,7 +22,7 @@ npx react-native init MyTestApp [--template <Template Name>]
 
 Или установить из репозитория
 
-Далее, надо подтянуть все зависимости: npm install или yarn install
+Далее, надо подтянуть все зависимости: `npm install` или `yarn install`
 
 Теперь можно запускать: 
 
