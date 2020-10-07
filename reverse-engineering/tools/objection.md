@@ -114,7 +114,9 @@ plugin = JBBypass
 
 ### Запуск
 
-Запуск: objection --gadget "&lt;app-id&gt;" explore
+Запуск нового приложения: objection --gadget "&lt;app-id&gt;" explore
+
+Присоединиться к уже запущенному: objection --gadget &lt;pid&gt; explore
 
 ### Поиск и перехват методов
 
