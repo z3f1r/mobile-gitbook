@@ -56,12 +56,20 @@ npm install -g react-devtools
 react-devtools
 ```
 
-Логи
+При дебаге ReactNative приложения в Metro Server запускается не вшитый в apk js-код \(его там вообще нет\), а из проекта напрямую, как есть.
+
+Следовательно, все console.log будут выводиться   
+Смотреть их можно не только adb logcat --pid=&lt;pid&gt;,   
+но и через npx react-native log-android
+
+### Логи
 
 ```text
 $ npx react-native log-ios
 $ npx react-native log-android
 ```
+
+### Debugger Integration
 
 Еще статья про debugger integration: [https://github.com/jhen0409/react-native-debugger/blob/master/docs/debugger-integration.md](https://github.com/jhen0409/react-native-debugger/blob/master/docs/debugger-integration.md)
 
