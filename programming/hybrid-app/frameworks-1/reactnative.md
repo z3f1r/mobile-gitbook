@@ -56,11 +56,20 @@ npm install -g react-devtools
 react-devtools
 ```
 
+В эмуляторе \(или  из Metro Server\) - `cmd-M`, выбираешь Debug. Откроется в Chrome - Debug Server \(да, по дефолту тягается chrome, как другие подключать не смотрел, но можно Safari и еще что-то\)   
+Переходим в браузере в Console и выбираем `debuggerWorker.js` элемент - \(как на картинке\)
+
+![](../../../.gitbook/assets/2020-10-12-13.34.22.jpg)
+
+И теперь в консоли у нас доступ к контексту, в котором работает React Native приложение
+
+Есть еще react devtools, там поидее можно управлять webview, но я пока не смог разобраться как
+
 При дебаге ReactNative приложения в Metro Server запускается не вшитый в apk js-код \(его там вообще нет\), а из проекта напрямую, как есть.
 
 Следовательно, все console.log будут выводиться   
-Смотреть их можно не только adb logcat --pid=&lt;pid&gt;,   
-но и через npx react-native log-android
+Смотреть их можно не только `adb logcat --pid=<pid>`,   
+но и через `npx react-native log-android`
 
 ### Логи
 
