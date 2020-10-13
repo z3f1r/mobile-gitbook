@@ -20,3 +20,46 @@ v0.3.* - 72
 v0.2.1 - 62
 ```
 
+## Android, подключение к ядру, исполнить код не смог пока
+
+```javascript
+
+console.log("[+] Start");
+Java.perform(function() {
+    try {
+        var ReactInstanceManagerHolder = Java.use('org.jitsi.meet.sdk.ReactInstanceManagerHolder');
+        console.log("[+] ReactInstanceManagerHolder Found");
+        var reactInstanceManager = ReactInstanceManagerHolder.getReactInstanceManager();  // com.facebook.react.h
+        var reactContext = reactInstanceManager.i(); // com.facebook.react.bridge.ReactContext
+        console.log("[+] Get reactContext");
+        console.log("[+] test: " + reactContext.hasCurrentActivity());
+    } catch (err) {
+        console.log("[-] ReactInstanceManagerHolder Not Found")
+    }
+});
+```
+
+Соответствующий код в приложении
+
+```java
+import com.facebook.hermes.reactexecutor.HermesExecutorFactory;
+import com.facebook.react.ReactInstanceManager;
+
+// Use the Hermes JavaScript engine.
+HermesExecutorFactory jsFactory = new HermesExecutorFactory();
+
+reactInstanceManager
+    = ReactInstanceManager.builder()
+        .setApplication(activity.getApplication())
+        .setCurrentActivity(activity)
+        .setBundleAssetName("index.android.bundle")
+        .setJSMainModulePath("index.android")
+        .setJavaScriptExecutorFactory(jsFactory)
+        .addPackages(packages)
+        .setUseDeveloperSupport(BuildConfig.DEBUG)
+        .setInitialLifecycleState(LifecycleState.RESUMED)
+        .build();
+```
+
+Это была попытка добраться до jsFactory, однако, все равно не смог найти методы, чтобы что-то исполнить в этом контексте. Вариант далее - разобраться как работает React Debug, и попробовать что-то такое сделать из frida.
+
