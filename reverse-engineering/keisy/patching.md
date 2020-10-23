@@ -40,7 +40,7 @@ Caution: You must use zipalign at one of two specific points in the app-building
 resign: [https://github.com/vtky/resign](https://github.com/vtky/resign)  
 IPAPatch: [https://github.com/Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)
 
-
+iPAPatcher: [https://github.com/brandonplank/iPAPatcher](https://github.com/brandonplank/iPAPatcher)
 
 
 

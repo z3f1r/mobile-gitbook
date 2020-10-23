@@ -338,6 +338,7 @@
     * [Hermes](reverse-engineering/keisy/hybrid-app/hermes.md)
     * [React Native](reverse-engineering/keisy/hybrid-app/react-native.md)
     * [Unity](reverse-engineering/keisy/hybrid-app/unity.md)
+    * [Debug Hybrid App](reverse-engineering/keisy/hybrid-app/debug-hybrid-app.md)
   * [Поиск уникальных строк в Smali](reverse-engineering/keisy/poisk-unikalnykh-strok-v-smali.md)
   * [Патчинг](reverse-engineering/keisy/patching.md)
   * [Объединить несколько JAR](reverse-engineering/keisy/obedinit-neskolko-jar.md)
