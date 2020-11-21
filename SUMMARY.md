@@ -266,6 +266,7 @@
     * [Смотреть логи](pentest/keisy/ios/smotret-logi.md)
     * [iOS SSL Unpinning](pentest/keisy/ios/ios-ssl-unpinning.md)
     * [Установка IPA-образа на iOS без XCode, Cydia Impactor,..](pentest/keisy/ios/ustanovka-ipa-obraza-na-ios-bez-xcode-cydia-impactor-...md)
+    * [Установка неподписанных IPA](pentest/keisy/ios/ustanovka-nepodpisannykh-ipa.md)
     * [Запись траффика iOS](pentest/keisy/ios/zapis-traffika-ios.md)
   * [Hybrid Apps](pentest/keisy/hybrid-apps/README.md)
     * [Flutter SDK: RE/Capture Traffic](pentest/keisy/hybrid-apps/flutter-sdk-capture-traffic.md)
