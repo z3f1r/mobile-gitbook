@@ -53,7 +53,7 @@ xcode open xcworkspace
 ## Build IPA on XCode
 
 XCode&gt;Product&gt;Archive - создание архива  
-Window-&gt;Organize-&gt;Archive - билд IPA образа. Как: [https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681](https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681)
+Window-&gt;Organize-&gt;Archive - билд IPA образа. Как: [https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681](https://stackoverflow.com/questions/5499125/how-to-create-ipa-file-using-xcode/47940681), но выбирать надо Ad-Hoc, потому как если в примере собирать, то будет Beta версия продукта \(будет желтая точка около названия такого приложения в телефоне; это иногда может влиять на функциональность\).
 
 Важно: проверять, что полученный IPA-образ устанавливается на телефон \(были примеры, когда этого не происходило\)
 
