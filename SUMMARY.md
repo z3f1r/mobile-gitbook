@@ -295,6 +295,7 @@
     * [ios emulator](pentest/instrumenty-i-skripty/ios/ios-emulator.md)
     * [passionfruit](pentest/instrumenty-i-skripty/ios/passionfruit.md)
     * [Grapefruit \("NG passionfruit"\)](pentest/instrumenty-i-skripty/ios/grapefruit-ng-passionfruit.md)
+    * [XPC Sniffing](pentest/instrumenty-i-skripty/ios/xpc-sniffing.md)
     * [SAST in MobSF](pentest/instrumenty-i-skripty/ios/sast-in-mobsf.md)
     * [Поиск по файлам](pentest/instrumenty-i-skripty/ios/poisk-po-failam.md)
   * [hybrid app](pentest/instrumenty-i-skripty/hybrid-app/README.md)
