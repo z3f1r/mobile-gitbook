@@ -22,6 +22,39 @@
 
 ![](../../../../.gitbook/assets/izobrazhenie%20%2813%29.png)
 
+В коде:
+
+```kotlin
+package com.zfr.emapt
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import kotlinx.android.synthetic.main.activity_main.*
+
+class MainActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+
+        /*
+        Чтобы можно было обратиться так к кнопке, надо добавить в
+        app/build.gradle в самый вверх поддержку kotlinx:
+        
+            plugins {
+                id 'kotlin-android-extensions'
+            }
+        или
+            apply plugin: 'kotlin-android-extensions'
+            
+        */  
+        button_test.setOnClickListener {
+            // Обработчик нажатия
+        }
+    }
+}
+```
+
 ### Пример запуска Activity
 
 ```java
