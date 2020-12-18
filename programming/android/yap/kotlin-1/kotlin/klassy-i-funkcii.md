@@ -1,5 +1,7 @@
 # Классы и функции
 
+## Функции
+
 ```kotlin
 class KotlinClass {
     fun sum(a: Int, b: Int): Int {  // Функция принимает два аргумента Int и возвращает Int
@@ -32,6 +34,21 @@ class KotlinClass {
         // Изменение глобальных переменных
         global_var += 1
     }
+}
+```
+
+## static
+
+PARAM\_RESULT - статическое поле
+
+```kotlin
+class MainActivity : AppCompatActivity() {
+    companion object {
+        val PARAM_RESULT: String = "com.zfr.network.extra.RESULT"
+        fun test() {
+            
+        }
+    }    
 }
 ```
 
