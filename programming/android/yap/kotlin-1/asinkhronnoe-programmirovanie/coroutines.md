@@ -16,7 +16,7 @@ implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_versio
 
 ```kotlin
 Thread(Runnable{
-    // your code
+    // your code in background thread
 }).start()
 ```
 
