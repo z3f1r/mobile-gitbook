@@ -129,7 +129,7 @@
   * [Android Studio](programming/android/android-studio/README.md)
     * [Build Project](programming/android/android-studio/build-project.md)
     * [Составные части проекта](programming/android/android-studio/sostavnye-chasti-proekta.md)
-  * [Примеры](programming/android/primery/README.md)
+  * [Примеры приложений](programming/android/primery/README.md)
     * [Kotlin](programming/android/primery/kotlin.md)
   * [Архитектура Android приложения](programming/android/arkhitektura-android-prilozheniya/README.md)
     * [Basic](programming/android/arkhitektura-android-prilozheniya/basic/README.md)
