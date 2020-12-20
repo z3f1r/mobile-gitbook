@@ -12,3 +12,11 @@ implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines_ver
 implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_version"
 ```
 
+В коде
+
+```kotlin
+Thread(Runnable{
+    // your code
+}).start()
+```
+
