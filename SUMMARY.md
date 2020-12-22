@@ -196,6 +196,7 @@
 * [Дистрибьюция](programming/distribyuciya/README.md)
   * [AppCenter](programming/distribyuciya/appcenter.md)
   * [App Store](programming/distribyuciya/app-store.md)
+  * [App Store Connect](programming/distribyuciya/app-store-connect.md)
   * [AppTester](programming/distribyuciya/apptester.md)
   * [Crashlytics](programming/distribyuciya/crashlytics.md)
   * [Cydia](programming/distribyuciya/cydia.md)
