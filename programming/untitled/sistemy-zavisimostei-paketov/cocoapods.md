@@ -10,6 +10,14 @@ sudo gem install cocoapods -v 1.8.4 //установит нужную верси
 pod --version //теперь эта команда должна выводить "1.8.4"
 ```
 
+еще можно ставить через homebrew:
+
+```text
+brew install cocoapods
+brew upgrade cocoapods
+
+```
+
 ## Пример использования
 
 [https://guides.cocoapods.org/using/using-cocoapods.html](https://guides.cocoapods.org/using/using-cocoapods.html)  
