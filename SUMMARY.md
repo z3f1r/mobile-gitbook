@@ -351,6 +351,8 @@
       * [Android](reverse-engineering/tools/frida/primery/android.md)
       * [iOS](reverse-engineering/tools/frida/primery/ios.md)
       * [Unity/Mono](reverse-engineering/tools/frida/primery/unity-mono.md)
+      * [Общее](reverse-engineering/tools/frida/primery/obshee/README.md)
+        * [Вывод Callstack](reverse-engineering/tools/frida/primery/obshee/vyvod-callstack.md)
   * [objection](reverse-engineering/tools/objection.md)
   * [luject](reverse-engineering/tools/luject.md)
   * [emulators](reverse-engineering/tools/emulators.md)
