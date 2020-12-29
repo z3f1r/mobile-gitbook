@@ -30,7 +30,7 @@ else
 console.log("[*] Completed: SSL Unpinning");
 ```
 
-## Получение адреса функции в обход ASLR
+## ASLR Bypass: Получение адреса функции
 
 ```javascript
 var modules_dict = {};
