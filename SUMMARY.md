@@ -336,6 +336,7 @@
   * [Tools](reverse-engineering/ios/tools/README.md)
     * [iRET](reverse-engineering/ios/tools/iret.md)
     * [xcrun](reverse-engineering/ios/tools/xcrun.md)
+  * [Start iOS Debug Server](reverse-engineering/ios/start-ios-debug-server.md)
   * [iOS Audio Framework](reverse-engineering/ios/ios-audio-framework.md)
   * [Facebook SDK](reverse-engineering/ios/facebook-sdk.md)
   * [Swift](reverse-engineering/ios/swift.md)
