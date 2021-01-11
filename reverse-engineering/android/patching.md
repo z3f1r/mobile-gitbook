@@ -1,7 +1,5 @@
 # Патчинг
 
-### Android
-
 1 Распаковываем наш apk  
 apktool d -r -b my.apk - декомпилим наш apk в smali;  
  -r - не распаковывать ресурсы  
@@ -32,15 +30,4 @@ zipalign - часть Android SDK / build tools
 Caution: You must use zipalign at one of two specific points in the app-building process, depending on which app-signing tool you use:  
  - If you use apksigner, zipalign must only be performed before the APK file has been signed. If you sign your APK using apksigner and make further changes to the APK, its signature is invalidated.  
  - If you use jarsigner, zipalign must only be performed after the APK file has been signed.
-
-### iOS
-
-Патчинг, переподписывание
-
-resign: [https://github.com/vtky/resign](https://github.com/vtky/resign)  
-IPAPatch: [https://github.com/Naituw/IPAPatch](https://github.com/Naituw/IPAPatch)
-
-iPAPatcher: [https://github.com/brandonplank/iPAPatcher](https://github.com/brandonplank/iPAPatcher)
-
-
 

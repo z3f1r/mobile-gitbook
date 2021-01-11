@@ -330,12 +330,14 @@
     * [adb/fastboot](reverse-engineering/android/tools/adb-fastboot.md)
     * [DexCalibur](reverse-engineering/android/tools/dexcalibur.md)
   * [Объединить несколько JAR](reverse-engineering/android/obedinit-neskolko-jar.md)
+  * [Патчинг](reverse-engineering/android/patching.md)
   * [Поиск уникальных строк в Smali](reverse-engineering/android/poisk-unikalnykh-strok-v-smali.md)
   * [Защита от frida](reverse-engineering/android/zashita-ot-frida.md)
 * [iOS](reverse-engineering/ios/README.md)
   * [Tools](reverse-engineering/ios/tools/README.md)
     * [iRET](reverse-engineering/ios/tools/iret.md)
     * [xcrun](reverse-engineering/ios/tools/xcrun.md)
+  * [Патчинг](reverse-engineering/ios/patching.md)
   * [Start iOS Debug Server](reverse-engineering/ios/start-ios-debug-server.md)
   * [iOS Audio Framework](reverse-engineering/ios/ios-audio-framework.md)
   * [Facebook SDK](reverse-engineering/ios/facebook-sdk.md)
@@ -367,7 +369,6 @@
     * [React Native](reverse-engineering/keisy/hybrid-app/react-native.md)
     * [Unity](reverse-engineering/keisy/hybrid-app/unity.md)
     * [Debug Hybrid App](reverse-engineering/keisy/hybrid-app/debug-hybrid-app.md)
-  * [Патчинг](reverse-engineering/keisy/patching.md)
 * [Статьи](reverse-engineering/stati.md)
 
 ## Administration
