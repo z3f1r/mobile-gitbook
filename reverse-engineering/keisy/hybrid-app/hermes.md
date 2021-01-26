@@ -20,6 +20,54 @@ v0.3.* - 72
 v0.2.1 - 62
 ```
 
+## Tools
+
+[hbcdump](https://github.com/facebook/hermes/releases) — инструмент для дизасма hermes bytecode
+
+```text
+$ ./hbcdump -objdump-disassemble index.android.bundle
+hbcdump> dis
+
+d0310a88a868dfb1ee21d12e9011725b1f716875:     file format HBC-74
+
+Disassembly of section .text:
+
+000000000002ca48 <_0>:
+0002ca48:       30 44 08 00 00        DeclareGlobalVar        $0x000844
+0002ca4d:       30 48 08 00 00        DeclareGlobalVar        $0x000848
+[...]
+hbcdump> quit
+```
+
+[hbctool](https://github.com/bongtrop/hbctool) — инструмент для патчинга \(можно и hex-редактор использовать\)
+
+```text
+pip install hbctool
+
+(hack) bongtrop@bongtrop-pc:lab/ $ hbctool disasm HermesReversingLab/assets/index.android.bundle HermesReversingLabHASM
+[*] Disassemble 'HermesReversingLab/assets/index.android.bundle' to 'HermesReversingLabHASM' path
+[*] Hermes Bytecode [ Source Hash: d0310a88a868dfb1ee21d12e9011725b1f716875, HBC Version: 74 ]
+[*] Done
+
+After disassembling HBC (Hermes Bytecode) to HASM (I named it; stands for Hermes Assembly). 
+In the HermesReversingLabHASM directory, there are 3 files as follows:
+
+    metadata.json: stores the important information of Hermes bytecode file
+    instruction.hasm: stores the application instructions or logics in HASM format (edit application logics in this file)
+    string.json: store the application strings or texts (edit strings in this file)
+
+Edit the application’s instruction in HermesReversingLabHASM/instruction.hasm.
+
+Save the file and assemble HASM to the HBC by using hbctool.
+
+(hack) bongtrop@bongtrop-pc:lab/ $ hbctool asm HermesReversingLabHASM HermesReversingLab/assets/index.android.bundle 
+[*] Assemble 'HermesReversingLabHASM' to 'HermesReversingLab/assets/index.android.bundle' path
+[*] Hermes Bytecode [ Source Hash: d0310a88a868dfb1ee21d12e9011725b1f716875, HBC Version: 74 ]
+[*] Done
+
+и далее подписываем apk
+```
+
 ## Android, подключение к ядру, исполнить код не смог пока
 
 ```javascript
