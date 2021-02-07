@@ -16,7 +16,7 @@ override func viewDidLoad() {
 }}
 ```
 
-## WKWebView in SwiftUI
+## WKWebView in SwiftUI Example
 
 TestSwiftApp.swift
 
