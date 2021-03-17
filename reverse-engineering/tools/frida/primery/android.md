@@ -15,6 +15,25 @@ universal script unpinning: [https://codeshare.frida.re/@pcipolloni/universal-an
 
 ## Скрипты
 
+## Wrapper
+
+```javascript
+setTimeout(
+    function(){
+        console.log("[+] Start");
+        Java.perform(
+            function(){
+                try {
+                    // Hook
+                } catch(err) {
+                    console.log("[-] Fail");
+                }
+            }
+        );
+    }
+,3);
+```
+
 ### PhoneGap & Outsystem ssl pinning bypass
 
 src: [https://github.com/clviper/android/blob/master/pinning.js](https://github.com/clviper/android/blob/master/pinning.js)
