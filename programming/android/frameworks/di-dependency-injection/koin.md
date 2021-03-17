@@ -1,6 +1,4 @@
-# DI: Dependency Injection
+# koin
 
 * koin \([https://github.com/InsertKoinIO/koin](https://github.com/InsertKoinIO/koin)\)
-* dagger2
-* kodein
 
