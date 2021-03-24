@@ -130,6 +130,7 @@
     * [Automating build](programming/android/tekhnologii/automating-build.md)
     * [Настройка резервного копирования](programming/android/tekhnologii/nastroika-rezervnogo-kopirovaniya.md)
     * [Remote Method Invocation](programming/android/tekhnologii/remote-method-invocation.md)
+    * [bundletool \(aab -&gt; apk\)](programming/android/tekhnologii/bundletool-aab-greater-than-apk.md)
   * [Android Studio](programming/android/android-studio/README.md)
     * [Build Project](programming/android/android-studio/build-project.md)
     * [Составные части проекта](programming/android/android-studio/sostavnye-chasti-proekta.md)
