@@ -9,3 +9,5 @@ java -jar bundletool-all-1.5.0.jar build-apks --bundle=app.aab --mode=universal 
 или если ставили через homebrew, то просто bundletool ...
 ```
 
+Внутри ищем universal.apk -&gt; это она
+
