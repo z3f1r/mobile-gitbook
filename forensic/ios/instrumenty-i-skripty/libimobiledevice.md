@@ -33,3 +33,14 @@ example usage:
 
 Проброс портов over SSH USB
 
+## Аналог на Go?
+
+Go-iOS was inspired by the wonderful libimobiledevice. It can do all of what libimobiledevice can do and more. Highlights:
+
+* run XCTests including WebdriverAgent on Linux, Windows and Mac
+* start and stop apps
+* Use a debug proxy to reverse engineer every tool Mac OSX has, so you can contrib to go-ios or build your own
+* use Accessibility Inspector APIs
+
+[https://github.com/danielpaulus/go-ios](https://github.com/danielpaulus/go-ios)
+
