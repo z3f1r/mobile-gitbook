@@ -61,6 +61,12 @@ adb shell pm dump <package> - тайминги работы приложения
 
 Удалить пользователя (читай: приложение)
 adb shell pm remove-user USER_ID
+
+Список пакетов/приложений установленных
+adb shell pm list packages
+
+путь до apk
+adb shell pm path <package> 
 ```
 
 ![](../../../.gitbook/assets/izobrazhenie%20%2810%29.png)
