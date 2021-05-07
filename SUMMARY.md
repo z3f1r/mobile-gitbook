@@ -121,6 +121,7 @@
         * [Coroutines](programming/android/yap/kotlin-1/asinkhronnoe-programmirovanie/coroutines.md)
       * [Логирование](programming/android/yap/kotlin-1/logirovanie.md)
       * [Возвращение объектов в Intent](programming/android/yap/kotlin-1/vozvrashenie-obektov-v-intent.md)
+      * [Call Native Functions](programming/android/yap/kotlin-1/call-native-functions.md)
   * [Технологии](programming/android/tekhnologii/README.md)
     * [Fastlane](programming/android/tekhnologii/fastlane.md)
     * [Gradle](programming/android/tekhnologii/gradle-1/README.md)
