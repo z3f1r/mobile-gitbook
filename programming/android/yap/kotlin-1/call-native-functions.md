@@ -27,7 +27,7 @@ QAndroidJniObject certificate_path = QAndroidJniObject::callStaticObjectMethod(
 Пример функции, которую можно вызвать из kotlin:
 
 ```cpp
-extern "C" JNIEXPORT jstring JNICALL Java_ru_dgis_example_curl_MainActivity_stringFromJNI(JNIEnv * env, jobject)
+extern "C" JNIEXPORT jstring JNICALL Java_ru_example_curl_MainActivity_stringFromJNI(JNIEnv * env, jobject)
 {
     const auto s = to_utf16(get_string());
     return env->NewString(reinterpret_cast<const jchar *>(s.c_str()), s.length());
