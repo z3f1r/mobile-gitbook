@@ -286,6 +286,7 @@
   * [Android](pentest/keisy/android/README.md)
     * [Закинуть GApps на эмулятор](pentest/keisy/android/zakinut-gapps-na-emulyator.md)
     * [Android Dependency Check](pentest/keisy/android/android-dependency-check.md)
+    * [Запрет скриншота и детект оверлея](pentest/keisy/android/zapret-skrinshota-i-detekt-overleya.md)
     * [Disable/Delete any app w/o root](pentest/keisy/android/disable-delete-any-app-w-o-root.md)
   * [iOS](pentest/keisy/ios/README.md)
     * [App Transport Security](pentest/keisy/ios/app-transport-security.md)
