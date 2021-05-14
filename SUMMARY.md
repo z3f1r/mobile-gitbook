@@ -293,6 +293,7 @@
     * [Info.plist](pentest/keisy/ios/info.plist.md)
     * [Смотреть логи](pentest/keisy/ios/smotret-logi.md)
     * [Установка IPA-образа на iOS без XCode, Cydia Impactor,..](pentest/keisy/ios/ustanovka-ipa-obraza-na-ios-bez-xcode-cydia-impactor-...md)
+    * [Борьба со скриншотами](pentest/keisy/ios/borba-so-skrinshotami.md)
     * [Блюринг изображений в менеджере окон](pentest/keisy/ios/blyuring-izobrazhenii-v-menedzhere-okon.md)
     * [Установка неподписанных IPA](pentest/keisy/ios/ustanovka-nepodpisannykh-ipa.md)
   * [Hybrid Apps](pentest/keisy/hybrid-apps/README.md)
