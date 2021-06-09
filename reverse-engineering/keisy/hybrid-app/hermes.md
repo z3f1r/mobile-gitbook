@@ -78,7 +78,12 @@ Standalone Hermes VM. This can execute Hermes bytecode, but does not support com
 
 ### hbctool
 
-[hbctool](https://github.com/bongtrop/hbctool) — инструмент для патчинга \(можно и hex-редактор использовать\)
+[hbctool](https://github.com/bongtrop/hbctool) Инструмент для более удобного дизассемблинга \(в сравнении с hbcdump\) и возможности патчинга.
+
+После распаковки будет три файла:   
+instruction.hasm \(дизассемблированный код в виде функций листингом\),   
+metadata.json \(содержит информацию, где находятся какие функции и тп\),   
+string.json \(строки и их ID\).
 
 ```text
 pip install hbctool
