@@ -51,7 +51,7 @@ $ hermes test.hbc
 
 ```text
 $ ./hbcdump -objdump-disassemble index.android.bundle
-hbcdump> dis
+hbcdump> dis 234
 
 d0310a88a868dfb1ee21d12e9011725b1f716875:     file format HBC-74
 
@@ -62,6 +62,48 @@ Disassembly of section .text:
 0002ca4d:       30 48 08 00 00        DeclareGlobalVar        $0x000848
 [...]
 hbcdump> quit
+```
+
+Зная ID строк, инструкций, функций \(через hbctool, например\), мы можем изучать работу приложения
+
+```text
+./hbcdump -human -mode=function -pretty-disassemble index.android.bundle
+
+hbcdump> help
+These commands are defined internally. Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+
+epilogue
+filename
+at-virtual
+block
+summary
+function
+instruction
+io
+function-info
+help
+disassemble
+string
+
+hbcdump>
+
+hbcdump> help string
+Display string for ID
+
+USAGE: string <STRING_ID>
+
+hbcdump> help filename
+Display file name for ID
+
+USAGE: filename <FILENAME_ID>
+
+hbcdump> help at-virtual
+Display information about the function at a given virtual offset.
+
+USAGE: at-virtual <OFFSET>
+
+
 ```
 
 ### hdb
