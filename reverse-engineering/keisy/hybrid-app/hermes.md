@@ -2,7 +2,8 @@
 
 Hermes - JS Engine. Перегоняет jS в байткод и от этого все работае быстрее
 
-[https://facebook.github.io/react-native/docs/hermes](https://github.com/facebook/hermes)
+[https://facebook.github.io/react-native/docs/hermes](https://github.com/facebook/hermes)  
+release бинари: [https://github.com/facebook/hermes/releases](https://github.com/facebook/hermes/releases)
 
 О подключении в React Native проект [https://facebook.github.io/react-native/docs/hermes](https://facebook.github.io/react-native/docs/hermes)
 
@@ -22,7 +23,30 @@ v0.2.1 - 62
 
 ## Tools
 
-[hbcdump](https://github.com/facebook/hermes/releases) — инструмент для дизасма hermes bytecode
+оф бинари можно найти по ссылке: [https://github.com/facebook/hermes/releases](https://github.com/facebook/hermes/releases)
+
+Туда входят: 
+
+* hbcdump
+* hdb
+* hermes
+* hermesc
+* hvm
+
+### hermes
+
+```text
+Запуск JS-кода:
+$ hermes test.js
+
+Compiling and Executing JavaScript with Bytecode:
+$ hermes -emit-binary -out test.hbc test.js
+$ hermes test.hbc
+```
+
+### hbcdump
+
+[hbcdump](https://github.com/facebook/hermes/releases) — Hermes bytecode disassembler
 
 ```text
 $ ./hbcdump -objdump-disassemble index.android.bundle
@@ -38,6 +62,20 @@ Disassembly of section .text:
 [...]
 hbcdump> quit
 ```
+
+### hdb
+
+JavaScript command line debugger
+
+### hermesc
+
+Standalone Hermes compiler. This can compile JavaScript to Hermes bytecode, but does not support executing it.
+
+### hvm
+
+Standalone Hermes VM. This can execute Hermes bytecode, but does not support compiling it.
+
+### hbctool
 
 [hbctool](https://github.com/bongtrop/hbctool) — инструмент для патчинга \(можно и hex-редактор использовать\)
 
@@ -68,7 +106,9 @@ Save the file and assemble HASM to the HBC by using hbctool.
 и далее подписываем apk
 ```
 
-## Android, подключение к ядру, исполнить код не смог пока
+## \[Frida\] Android
+
+подключение к ядру, исполнить код не смог пока
 
 ```javascript
 
