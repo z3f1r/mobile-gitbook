@@ -269,6 +269,7 @@
     * [Типичные ошибки реализации SMS-аутентификации](pentest/uyazvimosti-i-ataki/auth/tipichnye-oshibki-realizacii-sms-autentifikacii.md)
   * [Java Object Deserialization](pentest/uyazvimosti-i-ataki/java-object-deserialization.md)
   * [Lack of binary protection \(anti-debugging\) controls](pentest/uyazvimosti-i-ataki/lack-of-binary-protection-anti-debugging-controls.md)
+  * [Disabled security features in binary libraries](pentest/uyazvimosti-i-ataki/disabled-security-features-in-binary-libraries.md)
   * [Lack of exploit mitigations \(e.g. PIE, ARC, or stack canaries\)](pentest/uyazvimosti-i-ataki/lack-of-exploit-mitigations-e.g.-pie-arc-or-stack-canaries.md)
   * [Path disclosure in the binary](pentest/uyazvimosti-i-ataki/path-disclosure-in-the-binary.md)
   * [Runtime hacking exploits \(e.g. exploits that are only possible in a jailbroken environment\)](pentest/uyazvimosti-i-ataki/runtime-hacking-exploits-e.g.-exploits-that-are-only-possible-in-a-jailbroken-environment.md)
