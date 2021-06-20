@@ -201,6 +201,7 @@
 * [Рекомендации](programming/rekomendacii/README.md)
   * [Хранение PIN-кода и шифрование информации](programming/rekomendacii/khranenie-pin-koda-i-shifrovanie-informacii.md)
   * [Разработка приложения для людей с ограниченными возможностями](programming/rekomendacii/razrabotka-prilozheniya-dlya-lyudei-s-ogranichennymi-vozmozhnostyami.md)
+  * [Secure Networking on iOS](programming/rekomendacii/secure-networking-on-ios.md)
 * [AirWatch MDM](programming/airwatch-mdm.md)
 * [Дистрибьюция](programming/distribyuciya/README.md)
   * [AppCenter](programming/distribyuciya/appcenter.md)
