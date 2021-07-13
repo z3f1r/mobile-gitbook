@@ -276,6 +276,7 @@
   * [Runtime hacking exploits \(e.g. exploits that are only possible in a jailbroken environment\)](pentest/uyazvimosti-i-ataki/runtime-hacking-exploits-e.g.-exploits-that-are-only-possible-in-a-jailbroken-environment.md)
   * [Snapshot/pasteboard leakage](pentest/uyazvimosti-i-ataki/snapshot-pasteboard-leakage.md)
   * [User data stored unencrypted in the file system and/or external storage](pentest/uyazvimosti-i-ataki/user-data-stored-unencrypted-in-the-file-system-and-or-external-storage.md)
+  * [Android Task Hijacking](pentest/uyazvimosti-i-ataki/android-task-hijacking.md)
   * [WebView](pentest/uyazvimosti-i-ataki/webview/README.md)
     * [Check list](pentest/uyazvimosti-i-ataki/webview/check-list.md)
     * [Example Web View XSS in iOS app](pentest/uyazvimosti-i-ataki/webview/example-web-view-xss-in-ios-app.md)
