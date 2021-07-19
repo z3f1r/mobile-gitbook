@@ -245,6 +245,7 @@
     * [iOS 11 и выше](forensic/ios/ipa-dump/ios-11-i-vyshe.md)
     * [Младше iOS 10](forensic/ios/ipa-dump/mladshe-ios-10.md)
   * [Jailbreak](forensic/ios/jailbreak.md)
+  * [DFU режим \(режим восстановления и обновления\)](forensic/ios/dfu-rezhim-rezhim-vosstanovleniya-i-obnovleniya.md)
 * [Android](forensic/android/README.md)
   * [Файловая система](forensic/android/failovaya-sistema/README.md)
     * [Android KeyStore](forensic/android/failovaya-sistema/android-keystore.md)
